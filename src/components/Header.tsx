@@ -7,50 +7,48 @@ import { Button } from '@/components/ui/button'
 
 const serviceCategories = [
   {
-    name: 'Air Conditioning',
-    href: '/services/air-conditioning',
+    name: 'Local Moving',
+    href: '/services/local-moving',
     services: [
-      { name: 'AC Repair', href: '/services/air-conditioning/ac-repair' },
-      { name: 'AC Maintenance', href: '/services/air-conditioning/ac-maintenance' },
-      { name: 'AC Installation', href: '/services/air-conditioning/ac-installation' },
-      { name: 'Emergency AC Repair', href: '/services/air-conditioning/emergency-ac-repair' },
-      { name: 'Thermostat Repair', href: '/services/air-conditioning/thermostat-repair' },
+      { name: 'Residential Moving', href: '/services/local-moving/residential' },
+      { name: 'Apartment Moving', href: '/services/local-moving/apartment' },
+      { name: 'Same Day Moving', href: '/services/local-moving/same-day' },
     ]
   },
   {
-    name: 'Heating',
-    href: '/services/heating',
+    name: 'Long Distance',
+    href: '/services/long-distance',
     services: [
-      { name: 'Heater Repair', href: '/services/heating/heater-repair' },
-      { name: 'Heater Maintenance', href: '/services/heating/heater-maintenance' },
-      { name: 'Heater Installation', href: '/services/heating/heater-installation' },
+      { name: 'Interstate Moving', href: '/services/long-distance/interstate' },
+      { name: 'Cross Country', href: '/services/long-distance/cross-country' },
+      { name: 'State to State', href: '/services/long-distance/state-to-state' },
     ]
   },
   {
-    name: 'Furnaces',
-    href: '/services/furnaces',
+    name: 'Packing Services',
+    href: '/services/packing',
     services: [
-      { name: 'Furnace Repair', href: '/services/furnaces/furnace-repair' },
-      { name: 'Furnace Maintenance', href: '/services/furnaces/furnace-maintenance' },
-      { name: 'Furnace Installation', href: '/services/furnaces/furnace-installation' },
+      { name: 'Full Packing', href: '/services/packing/full-packing' },
+      { name: 'Partial Packing', href: '/services/packing/partial-packing' },
+      { name: 'Packing Supplies', href: '/services/packing/supplies' },
     ]
   },
   {
-    name: 'Heat Pumps',
-    href: '/services/heat-pumps',
+    name: 'Loading/Unloading',
+    href: '/services/loading-unloading',
     services: [
-      { name: 'Heat Pump Repair', href: '/services/heat-pumps/heat-pump-repair' },
-      { name: 'Heat Pump Maintenance', href: '/services/heat-pumps/heat-pump-maintenance' },
-      { name: 'Heat Pump Installation', href: '/services/heat-pumps/heat-pump-installation' },
+      { name: 'Loading Help', href: '/services/loading-unloading/loading' },
+      { name: 'Unloading Help', href: '/services/loading-unloading/unloading' },
+      { name: 'Truck Loading', href: '/services/loading-unloading/truck' },
     ]
   },
   {
-    name: 'Indoor Air Quality',
-    href: '/services/indoor-air-quality',
+    name: 'Specialty Moving',
+    href: '/services/specialty',
     services: [
-      { name: 'Air Purifiers', href: '/services/indoor-air-quality/air-purifiers' },
-      { name: 'Duct Cleaning', href: '/services/indoor-air-quality/duct-cleaning' },
-      { name: 'UV Light Installation', href: '/services/indoor-air-quality/uv-light-installation' },
+      { name: 'Furniture Moving', href: '/services/specialty/furniture' },
+      { name: 'Senior Moving', href: '/services/specialty/senior' },
+      { name: 'Piano Moving', href: '/services/specialty/piano' },
     ]
   },
 ]
@@ -101,7 +99,7 @@ export function Header() {
         <div className="bg-[#10477d] lg:rounded-lg border-b-2 lg:border-2 border-[#1e3a5f] shadow-xl px-2 sm:px-4 md:px-6 lg:px-8 flex items-center h-14 lg:h-20">
           <Link href="/" className="flex items-center lg:flex-1 flex-1 justify-start">
             <span className="text-lg sm:text-xl lg:text-2xl font-bold text-white">
-              Boise <span className="text-[#FFC845]">HVAC</span> Pros
+              Boise <span className="text-[#FFC845]">Movers</span> Pros
             </span>
           </Link>
 
@@ -182,9 +180,9 @@ export function Header() {
                 <div className="absolute left-0 top-full mt-2 w-[200px] bg-white shadow-lg rounded-lg p-4">
                   <ul className="space-y-2">
                     <li><Link href="/resources/faq" className="text-sm text-gray-600 hover:text-[#0b7fb6] transition-colors">FAQ</Link></li>
-                    <li><Link href="/resources/hvac-tips" className="text-sm text-gray-600 hover:text-[#0b7fb6] transition-colors">HVAC Tips</Link></li>
-                    <li><Link href="/resources/repair-vs-replace" className="text-sm text-gray-600 hover:text-[#0b7fb6] transition-colors">Repair vs Replace</Link></li>
-                    <li><Link href="/resources/financing" className="text-sm text-gray-600 hover:text-[#0b7fb6] transition-colors">Financing</Link></li>
+                    <li><Link href="/resources/moving-tips" className="text-sm text-gray-600 hover:text-[#0b7fb6] transition-colors">Moving Tips</Link></li>
+                    <li><Link href="/resources/moving-checklist" className="text-sm text-gray-600 hover:text-[#0b7fb6] transition-colors">Moving Checklist</Link></li>
+                    <li><Link href="/resources/cost-calculator" className="text-sm text-gray-600 hover:text-[#0b7fb6] transition-colors">Cost Calculator</Link></li>
                     <li><Link href="/blogs" className="text-sm text-gray-600 hover:text-[#0b7fb6] transition-colors">Blog</Link></li>
                   </ul>
                 </div>

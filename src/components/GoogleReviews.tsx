@@ -6,14 +6,14 @@ import { Button } from '@/components/ui/button'
 import { Star, ChevronLeft, ChevronRight } from 'lucide-react'
 
 const staticReviews = [
-  { author: 'Mike R.', relative_time: '2 weeks ago', rating: 5, text: 'Our AC stopped working on the hottest day of July. Called them and they had a tech out within 2 hours. Fixed the issue quickly and explained everything. Fair price, no pressure. Highly recommend!' },
-  { author: 'Sarah T.', relative_time: '1 month ago', rating: 5, text: 'Had them install a new furnace before winter hit. The crew was professional, cleaned up after themselves, and the new system works great. Our heating bills are noticeably lower now.' },
-  { author: 'David L.', relative_time: '3 weeks ago', rating: 5, text: 'Used them for annual HVAC maintenance. Tech was knowledgeable and thorough. Found a small issue before it became a big problem. Great preventive service at a reasonable price.' },
-  { author: 'Jennifer M.', relative_time: '2 months ago', rating: 5, text: 'Our heat pump was making strange noises. They diagnosed the problem accurately and had the parts to fix it same day. Very impressed with their expertise and efficiency.' },
-  { author: 'Chris B.', relative_time: '1 week ago', rating: 5, text: 'Honest company. They could have sold me a new AC unit but instead recommended a repair that cost a fraction. System has been running perfectly since. Will use them for all our HVAC needs.' },
-  { author: 'Amanda K.', relative_time: '1 month ago', rating: 5, text: 'Emergency furnace repair in January - they answered the phone at 10pm and had someone here by midnight. Saved us from a very cold night. These guys are the real deal.' },
-  { author: 'Tom H.', relative_time: '3 weeks ago', rating: 5, text: 'Just had a new AC system installed. From the estimate to final installation, everything was professional. The techs explained how to use the new thermostat and answered all my questions.' },
-  { author: 'Lisa P.', relative_time: '2 weeks ago', rating: 5, text: 'Best HVAC company in Boise. Fast response, fair prices, quality work. They serviced both our AC and furnace and everything runs perfectly now. Friendly staff too!' },
+  { author: 'Mike R.', relative_time: '2 weeks ago', rating: 5, text: 'These guys made our move so much easier than expected. They showed up on time, worked fast, and were careful with everything. No hidden fees either—the final price matched the quote exactly.' },
+  { author: 'Sarah T.', relative_time: '1 month ago', rating: 5, text: 'Moved our entire 3-bedroom house in one day. The crew was professional, friendly, and nothing got damaged. They even reassembled our furniture. Worth every penny.' },
+  { author: 'David L.', relative_time: '3 weeks ago', rating: 5, text: 'We needed help loading a U-Haul and these guys were lifesavers. They loaded everything in half the time it would have taken us and made sure it was packed tight so nothing shifted during the drive.' },
+  { author: 'Jennifer M.', relative_time: '2 months ago', rating: 5, text: 'Long distance move from Boise to Portland went smoothly. They handled all our stuff with care and delivered everything on schedule. Great communication throughout the whole process.' },
+  { author: 'Chris B.', relative_time: '1 week ago', rating: 5, text: 'Honest movers are hard to find. These guys gave us a fair quote and stuck to it. No surprise charges. They treated our belongings like their own. Will definitely use them again.' },
+  { author: 'Amanda K.', relative_time: '1 month ago', rating: 5, text: 'They moved my elderly mother into an assisted living facility. The crew was patient, respectful, and understanding of the emotional situation. Can\'t thank them enough.' },
+  { author: 'Tom H.', relative_time: '3 weeks ago', rating: 5, text: 'Best moving experience I've had. They packed fragile items professionally, moved our piano without a scratch, and even helped rearrange furniture at the new place. Top-notch service.' },
+  { author: 'Lisa P.', relative_time: '2 weeks ago', rating: 5, text: 'Best movers in Boise! Fast, careful, reasonably priced. They made a stressful day actually manageable. The crew was friendly and worked their tails off. Highly recommend!' },
 ]
 
 export function GoogleReviews() {

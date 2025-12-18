@@ -2,15 +2,15 @@
 
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'
 import { Button } from '@/components/ui/button'
-import { Snowflake, Flame, Wrench, ThermometerSun } from 'lucide-react'
+import { Truck, Package, Users, Home } from 'lucide-react'
 import { useQuoteForm } from '@/context/QuoteFormContext'
 import Link from 'next/link'
 
 const services = [
-  { icon: Snowflake, title: 'AC Repair & Installation', description: 'Keep cool all summer. We fix any AC problem and install new systems with expert precision.', href: '/services/air-conditioning' },
-  { icon: Flame, title: 'Heating & Furnace', description: 'Stay warm when it matters. Furnace repairs, replacements, and tune-ups you can count on.', href: '/services/furnaces' },
-  { icon: Wrench, title: 'HVAC Maintenance', description: 'Prevent costly breakdowns. Regular maintenance keeps your system running efficiently year-round.', href: '/resources/maintenance-plans' },
-  { icon: ThermometerSun, title: '24/7 Emergency Service', description: 'No heat in January? AC out in July? We respond fast when you need us most.', href: '/services/air-conditioning/emergency-ac-repair' },
+  { icon: Truck, title: 'Local & Long Distance', description: 'Moving across town or across the country? We handle local and long-distance moves with the same care and expertise.', href: '/services/local-moving' },
+  { icon: Package, title: 'Packing Services', description: 'Don't want to pack? We'll do it for you. Professional packing ensures your stuff arrives safely without the stress.', href: '/services/packing' },
+  { icon: Users, title: 'Loading & Unloading', description: 'Rented a truck but need help? We'll load or unload your belongings quickly and carefully.', href: '/services/loading-unloading' },
+  { icon: Home, title: 'Specialty Moving', description: 'Piano? Heavy furniture? Senior moving assistance? We have experience with items that need extra care.', href: '/services/specialty' },
 ]
 
 export function ServicesGrid() {
@@ -24,7 +24,7 @@ export function ServicesGrid() {
       <div className="container mx-auto px-4 relative z-10">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-heading font-bold text-dark-blue mb-4 uppercase" style={{textShadow: '2px 2px 3px rgba(0,0,0,0.3), 1px 1px 2px rgba(0,0,0,0.2)'}}>Our Services</h2>
-          <p className="text-xl text-gray-600 max-w-2xl mx-auto">Professional heating and cooling services for the Treasure Valley</p>
+          <p className="text-xl text-gray-600 max-w-2xl mx-auto">Professional moving services for the Treasure Valley</p>
         </div>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">

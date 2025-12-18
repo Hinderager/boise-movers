@@ -5,13 +5,13 @@ import { ChevronDown } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 
 export const faqs = [
-  { question: 'How much does HVAC repair cost?', answer: 'Most repairs run between $150-500 depending on the issue. Diagnostic fees typically start around $89 and get applied to the repair cost if you move forward. We always provide upfront pricing before any work begins.' },
-  { question: 'How often should I service my HVAC system?', answer: 'We recommend a tune-up twice a year—once in spring for your AC and once in fall for your furnace. Regular maintenance catches small problems before they become expensive repairs and keeps your system running efficiently.' },
-  { question: 'Do you offer 24/7 emergency service?', answer: 'Yes. No heat in the middle of winter or AC failure during a heat wave? We get it—some things can\'t wait. Our emergency technicians are available around the clock, including weekends and holidays.' },
-  { question: 'How long does a new AC or furnace installation take?', answer: 'Most standard installations take one day. If we\'re replacing both your furnace and AC or doing ductwork modifications, it might take two days. We\'ll give you a timeline before we start.' },
-  { question: 'What brands do you work on?', answer: 'We service all major brands—Carrier, Trane, Lennox, Rheem, Goodman, Bryant, American Standard, and more. Our techs are trained to diagnose and repair any make or model.' },
-  { question: 'How do I know if I need a repair or replacement?', answer: 'Generally, if your system is over 15 years old and needs a repair costing more than half a new unit, replacement makes more sense. We\'ll always give you honest advice and both options so you can decide what\'s right for your situation.' },
-  { question: 'Do you offer financing?', answer: 'Yes, we offer flexible financing options on new equipment installations. Get a new system now and pay over time with approved credit. Ask us about current promotions.' },
+  { question: 'How much does it cost to hire movers in Boise?', answer: 'Most local moves run between $300-800 depending on the size of your home and how much stuff you have. We charge by the hour with a minimum, and we'll give you an accurate estimate over the phone or in person. No hidden fees—what we quote is what you pay.' },
+  { question: 'Do I need to pack everything before the movers arrive?', answer: 'That's up to you. We can pack everything for you, pack just the fragile stuff, or you can pack it all yourself and we'll just do the moving. Whatever works best for your situation and budget.' },
+  { question: 'Are you insured?', answer: 'Yes. We're fully licensed and insured. We take care with everything we move, but if something does get damaged, you're covered. We'll walk you through the insurance details when we give you a quote.' },
+  { question: 'How far in advance should I book movers?', answer: 'For local moves, a week or two is usually fine. If you're moving during summer (our busy season) or on a weekend, book as early as you can. For long-distance moves, give us at least 2-3 weeks notice if possible.' },
+  { question: 'Can you move just one or two heavy items?', answer: 'Absolutely. We do small moves all the time—pianos, safes, big furniture, hot tubs. If it's heavy or awkward and you don't want to deal with it yourself, we'll handle it.' },
+  { question: 'Do you move long distance?', answer: 'Yes. We handle moves anywhere in Idaho and to neighboring states. For longer cross-country moves, we work with trusted partners to make sure your stuff gets there safely.' },
+  { question: 'What if I need to reschedule?', answer: 'Life happens. Just give us a call as soon as you know. We'll do our best to work with you and find a new date that fits your schedule.' },
 ]
 
 export function FAQ() {

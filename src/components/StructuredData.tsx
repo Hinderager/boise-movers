@@ -7,11 +7,11 @@ const cityCoordinates: Record<string, { lat: number; lng: number }> = {
 }
 
 const faqData = [
-  { question: 'How much does HVAC repair cost in Boise?', answer: 'Most HVAC repairs in Boise cost between $150-500 depending on the issue. Diagnostic fees typically start around $89 and get applied to the repair cost. We provide exact quotes before any work begins.' },
-  { question: 'How often should I service my HVAC system?', answer: 'We recommend servicing your HVAC system twice a year—once in spring for AC and once in fall for heating. Regular maintenance prevents costly breakdowns and extends equipment life.' },
-  { question: 'Do you offer 24/7 emergency HVAC service?', answer: 'Yes! We offer 24/7 emergency heating and AC repair throughout the Treasure Valley. Call (208) 505-9352 for immediate service.' },
-  { question: 'How long does a new furnace or AC installation take?', answer: 'Most standard installations take one day. Complex installations involving both furnace and AC or ductwork may take two days.' },
-  { question: 'What HVAC brands do you service?', answer: 'We service all major brands including Carrier, Trane, Lennox, Rheem, Goodman, Bryant, American Standard, and more.' },
+  { question: 'How much does it cost to hire movers in Boise?', answer: 'Most local moves in Boise cost between $300-800 depending on the size of your home and amount of belongings. We provide exact quotes upfront with no hidden fees.' },
+  { question: 'Do I need to pack everything before movers arrive?', answer: 'No, we offer full packing services, partial packing, or you can pack yourself. We'll work with whatever fits your budget and preferences.' },
+  { question: 'Are you insured?', answer: 'Yes, we are fully licensed and insured. Your belongings are protected during the entire moving process.' },
+  { question: 'How far in advance should I book movers?', answer: 'For local moves, 1-2 weeks is usually sufficient. For summer moves or weekends, book earlier. Long-distance moves should be booked 2-3 weeks in advance.' },
+  { question: 'Can you move just heavy furniture?', answer: 'Absolutely. We handle small moves including pianos, safes, large furniture, and other heavy items.' },
   { question: 'What areas do you serve?', answer: 'We serve Boise, Meridian, Nampa, Caldwell, Eagle, and surrounding Treasure Valley communities.' },
 ]
 
@@ -20,12 +20,12 @@ export function StructuredData({ city = 'Boise' }: { city?: string }) {
 
   const structuredData = {
     "@context": "https://schema.org",
-    "@type": "HVACBusiness",
-    "name": `Boise HVAC Pros - ${city}`,
-    "description": `Professional HVAC services in ${city}, Idaho. AC repair, furnace installation, heating services. Licensed and insured. 24/7 emergency service.`,
-    "url": "https://hvac-boise.com",
+    "@type": "MovingCompany",
+    "name": `Boise Movers Pros - ${city}`,
+    "description": `Professional moving services in ${city}, Idaho. Local moving, long distance moving, packing services, furniture moving. Licensed and insured.`,
+    "url": "https://boise-movers.com",
     "telephone": "+1-208-505-9352",
-    "email": "info@hvac-boise.com",
+    "email": "info@boise-movers.com",
     "address": { "@type": "PostalAddress", "addressLocality": city, "addressRegion": "ID", "addressCountry": "US" },
     "geo": { "@type": "GeoCoordinates", "latitude": coords.lat, "longitude": coords.lng },
     "areaServed": [
@@ -35,22 +35,22 @@ export function StructuredData({ city = 'Boise' }: { city?: string }) {
       { "@type": "City", "name": "Caldwell", "addressRegion": "ID" },
       { "@type": "City", "name": "Eagle", "addressRegion": "ID" }
     ],
-    "serviceType": ["AC Repair", "AC Installation", "Furnace Repair", "Furnace Installation", "HVAC Maintenance", "Emergency HVAC Service", "Heating Repair", "Air Conditioning Service"],
+    "serviceType": ["Local Moving", "Long Distance Moving", "Residential Moving", "Packing Services", "Loading Services", "Unloading Services", "Furniture Moving", "Senior Moving", "Piano Moving"],
     "priceRange": "$$",
     "openingHoursSpecification": [
-      { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"], "opens": "07:00", "closes": "19:00" },
-      { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Saturday", "Sunday"], "opens": "00:00", "closes": "23:59", "description": "24/7 Emergency Service" }
+      { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"], "opens": "07:00", "closes": "19:00" },
+      { "@type": "OpeningHoursSpecification", "dayOfWeek": "Sunday", "opens": "08:00", "closes": "17:00" }
     ],
-    "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "87" }
+    "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "150" }
   }
 
   const serviceSchema = {
     "@context": "https://schema.org",
     "@type": "Service",
-    "serviceType": "HVAC Services",
-    "provider": { "@type": "HVACBusiness", "name": "Boise HVAC Pros" },
+    "serviceType": "Moving Services",
+    "provider": { "@type": "MovingCompany", "name": "Boise Movers Pros" },
     "areaServed": { "@type": "State", "name": "Idaho" },
-    "description": `Professional heating and air conditioning services in ${city} and the Treasure Valley. AC repair, furnace installation, HVAC maintenance, and 24/7 emergency service.`
+    "description": `Professional residential moving services in ${city} and the Treasure Valley. Local moves, long distance moves, packing services, and furniture moving.`
   }
 
   const faqSchema = {
