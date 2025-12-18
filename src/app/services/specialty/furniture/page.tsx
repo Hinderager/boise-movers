@@ -3,7 +3,7 @@ import { Phone } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Furniture Moving Service | Professional Movers in Boise, ID',
-  description: 'Need to move heavy furniture? We'll safely move couches, dressers, and more. Careful handling and protection for all your furniture in Boise.',
+  description: 'Need to move heavy furniture? We will safely move couches, dressers, and more. Careful handling and protection for all your furniture in Boise.',
   alternates: { canonical: 'https://boise-movers.com/services/specialty/furniture' },
 }
 

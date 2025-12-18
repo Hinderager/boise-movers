@@ -3,7 +3,7 @@ import { Phone } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Partial Packing Service | Professional Movers in Boise, ID',
-  description: 'Need help packing just the tricky stuff? We'll pack your fragile items, kitchen, or any room you choose. Flexible packing service in Boise.',
+  description: 'Need help packing just the tricky stuff? We will pack your fragile items, kitchen, or any room you choose. Flexible packing service in Boise.',
   alternates: { canonical: 'https://boise-movers.com/services/packing/partial-packing' },
 }
 
