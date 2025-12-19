@@ -47,7 +47,7 @@ export default function LoadingPage() {
               Rental trucks (U-Haul, Penske, Budget), moving containers (PODS, U-Pack, SMARTBOX), and shipping containers. Basically anything that needs loading.
             </p>
             <p>
-              We handle furniture, appliances, boxes—the whole deal. If you've got something especially heavy or awkward, let us know ahead of time so we bring extra hands.
+              We handle furniture, appliances, boxes-the whole deal. If you've got something especially heavy or awkward, let us know ahead of time so we bring extra hands.
             </p>
 
             <h2>How Much Does It Cost?</h2>
@@ -63,7 +63,7 @@ export default function LoadingPage() {
               We offer loading service throughout Boise, Meridian, Eagle, Nampa, Caldwell, and the surrounding area. If you're renting a truck and need it loaded, we're here to help.
             </p>
             <p>
-              Give us a call with your details—what you're moving, what size truck, and when you need it loaded. We'll get you scheduled.
+              Give us a call with your details-what you're moving, what size truck, and when you need it loaded. We'll get you scheduled.
             </p>
           </div>
         </div>

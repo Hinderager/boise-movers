@@ -33,7 +33,7 @@ export default function FullPackingPage() {
 
             <h2>What's Included</h2>
             <p>
-              When you choose full packing, we literally pack everything. Kitchen, bedrooms, garage, attic—all of it.
+              When you choose full packing, we literally pack everything. Kitchen, bedrooms, garage, attic-all of it.
             </p>
             <p>
               We bring boxes, tape, bubble wrap, and packing paper. Fragile items get extra protection. Dishes are individually wrapped. Electronics are cushioned properly.

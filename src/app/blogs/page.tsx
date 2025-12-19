@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   title: 'HVAC Blog | Heating & Cooling Tips | Boise HVAC Pros',
   description: 'Expert tips, guides, and insights about heating and air conditioning in Boise and the Treasure Valley. Learn from the pros at Boise HVAC Pros.',
   alternates: {
-    canonical: 'https://hvac-boise.com/blogs',
+    canonical: 'https://boise-movers.com/blogs',
   },
 }
 

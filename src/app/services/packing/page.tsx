@@ -3,7 +3,7 @@ import { Phone } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Professional Packing Services Boise | Top Shelf Moving',
-  description: 'Expert packing services for your move. We'll pack everything safely and efficiently so you don't have to. Call (208) 505-9352 for packing help.',
+  description: 'Expert packing services for your move. We will pack everything safely and efficiently so you do not have to. Call (208) 505-9352 for packing help.',
   alternates: {
     canonical: 'https://boise-movers.com/services/packing',
   },
@@ -31,7 +31,7 @@ export default function PackingPage() {
               and you're always second-guessing whether that lamp is going to survive the trip.
             </p>
             <p>
-              Good news: you don't have to do it yourself. We'll pack everything for you—carefully, quickly,
+              Good news: you don't have to do it yourself. We'll pack everything for you-carefully, quickly,
               and with the right materials. Then we'll move it, and when you get to the new place,
               we can even unpack if you want.
             </p>
@@ -60,7 +60,7 @@ export default function PackingPage() {
               if you're short on time or just don't want to deal with it.
             </p>
             <p>
-              <strong>Partial packing:</strong> We pack the tricky stuff—kitchen, fragile items, anything breakable—and
+              <strong>Partial packing:</strong> We pack the tricky stuff-kitchen, fragile items, anything breakable-and
               you handle the easy boxes like clothes and linens. This saves you money but still gets the hard work done.
             </p>
 

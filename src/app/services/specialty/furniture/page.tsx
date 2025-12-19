@@ -25,7 +25,7 @@ export default function FurniturePage() {
           <div className="prose prose-lg max-w-none">
             <h2>Moving Furniture Is What We Do</h2>
             <p>
-              Couches, dressers, beds, dining tables—furniture's heavy, awkward, and easy to damage if you don't know what you're doing.
+              Couches, dressers, beds, dining tables-furniture's heavy, awkward, and easy to damage if you don't know what you're doing.
             </p>
             <p>
               We move furniture for a living, so we've got the tools, the technique, and the muscle to get it done without scratching floors or dinging walls.
@@ -80,7 +80,7 @@ export default function FurniturePage() {
       <section className="py-16 bg-dark-blue">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold text-white mb-4">Get Your Furniture Moved Right</h2>
-          <p className="text-xl text-gray-300 mb-8">No scratches, no damage—just professional service</p>
+          <p className="text-xl text-gray-300 mb-8">No scratches, no damage-just professional service</p>
           <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
             <Phone className="w-5 h-5" />(208) 505-9352
           </a>

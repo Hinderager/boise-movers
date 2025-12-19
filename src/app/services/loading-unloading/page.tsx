@@ -28,7 +28,7 @@ export default function LoadingUnloadingPage() {
             <h2>Rented a Truck? We'll Load It</h2>
             <p>
               Maybe you got a good deal on a U-Haul. Maybe you're trying to save money by driving it yourself.
-              Either way, loading and unloading that thing is hard work—and if you do it wrong, stuff breaks.
+              Either way, loading and unloading that thing is hard work-and if you do it wrong, stuff breaks.
             </p>
             <p>
               That's where we help. You rent the truck, we load it (or unload it, or both).
@@ -55,7 +55,7 @@ export default function LoadingUnloadingPage() {
               the day and time we're scheduled, and we'll be ready to load when you pull up.
             </p>
             <p>
-              Not sure what size truck to rent? Call us—we can help you figure out what you need based
+              Not sure what size truck to rent? Call us-we can help you figure out what you need based
               on what you're moving.
             </p>
 
@@ -67,7 +67,7 @@ export default function LoadingUnloadingPage() {
 
             <h2>What About Moving Containers?</h2>
             <p>
-              We load those too. PODS, U-Pack, 1-800-PACK-RAT—if you've got a container in your driveway,
+              We load those too. PODS, U-Pack, 1-800-PACK-RAT-if you've got a container in your driveway,
               we can fill it up or empty it out. Same deal as a truck.
             </p>
 
@@ -75,7 +75,7 @@ export default function LoadingUnloadingPage() {
             <p>
               You could. But your friends probably don't know how to lift a couch without scraping the walls,
               and they definitely don't have the equipment or experience we do. Plus, you'll still owe them
-              pizza and beer—and maybe a chiropractor visit.
+              pizza and beer-and maybe a chiropractor visit.
             </p>
             <p>
               We're fast, we're careful, and we do this every day. You'll save time and avoid the hassle.

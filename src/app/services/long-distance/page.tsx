@@ -29,7 +29,7 @@ export default function LongDistancePage() {
           <div className="prose prose-lg max-w-none">
             <h2>Moving Out of Idaho?</h2>
             <p>
-              Long-distance moves are a different beast than moving across town. You're not just packing and driving—you're coordinating timing, planning routes, protecting your stuff for hundreds (or thousands) of miles, and hoping everything arrives intact.
+              Long-distance moves are a different beast than moving across town. You're not just packing and driving-you're coordinating timing, planning routes, protecting your stuff for hundreds (or thousands) of miles, and hoping everything arrives intact.
             </p>
             <p>
               We handle long-distance moves regularly. Whether you're relocating for work, family, or just ready for a change, we'll get your belongings there safely.
@@ -40,7 +40,7 @@ export default function LongDistancePage() {
               Generally, any move over 100 miles or across state lines. That includes moving from Boise to Seattle, Denver, Phoenix, or anywhere else outside the Treasure Valley.
             </p>
             <p>
-              If you're moving within Idaho but it's a longer haul—like Boise to Coeur d'Alene or Twin Falls—that falls under long-distance too.
+              If you're moving within Idaho but it's a longer haul-like Boise to Coeur d'Alene or Twin Falls-that falls under long-distance too.
             </p>
 
             <h2>How Long-Distance Moves Work</h2>
@@ -64,7 +64,7 @@ export default function LongDistancePage() {
 
             <h2>Packing and Protection</h2>
             <p>
-              Your stuff is going to spend time on the road. We pack everything carefully—blankets, straps, and padding to keep things from shifting or getting damaged.
+              Your stuff is going to spend time on the road. We pack everything carefully-blankets, straps, and padding to keep things from shifting or getting damaged.
             </p>
             <p>
               If you'd rather pack yourself, that's fine too. Just make sure boxes are sturdy and labeled. We'll handle the heavy lifting and the logistics.

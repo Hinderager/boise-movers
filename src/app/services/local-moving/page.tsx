@@ -30,7 +30,7 @@ export default function LocalMovingPage() {
             <h2>Moving Locally in Boise?</h2>
             <p>
               You'd think moving across town would be simple. But between packing everything you own, renting a truck,
-              wrangling friends to help, and praying nothing breaks—it gets complicated fast.
+              wrangling friends to help, and praying nothing breaks-it gets complicated fast.
             </p>
             <p>
               That's where we come in. We handle local moves all day, every day. You tell us where and when,
@@ -59,14 +59,14 @@ export default function LocalMovingPage() {
 
             <h2>We Cover the Whole Treasure Valley</h2>
             <p>
-              Boise, Meridian, Nampa, Caldwell, Eagle, Kuna, Star—wherever you're moving in the area, we've got you covered.
+              Boise, Meridian, Nampa, Caldwell, Eagle, Kuna, Star-wherever you're moving in the area, we've got you covered.
               We know these cities well, which means less time driving and more efficiency for you.
             </p>
 
             <h2>Why Hire Us Instead of Doing It Yourself?</h2>
             <p>Here's the thing: DIY moves sound cheaper until you add it all up.</p>
             <p>
-              Truck rental, gas, boxes, tape, bubble wrap, pizza for the friends who "owe you one"—plus your time,
+              Truck rental, gas, boxes, tape, bubble wrap, pizza for the friends who "owe you one"-plus your time,
               your energy, and the risk of dropping that couch down the stairs. By the time you're done,
               you might've saved a hundred bucks but lost your whole weekend.
             </p>

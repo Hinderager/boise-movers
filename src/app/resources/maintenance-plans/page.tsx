@@ -4,7 +4,7 @@ import { Phone } from 'lucide-react'
 export const metadata: Metadata = {
   title: 'HVAC Maintenance Agreements | Boise HVAC Pros',
   description: 'HVAC Maintenance Agreements - Helpful HVAC information from Boise HVAC Pros.',
-  alternates: { canonical: 'https://hvac-boise.com/resources/maintenance-plans' },
+  alternates: { canonical: 'https://boise-movers.com/resources/maintenance-plans' },
 }
 
 export default function MaintenancePlansPage() {

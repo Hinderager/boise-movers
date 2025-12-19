@@ -4,7 +4,7 @@ import { Phone } from 'lucide-react'
 export const metadata: Metadata = {
   title: 'HVAC Financing Options | Boise HVAC Pros',
   description: 'HVAC Financing Options - Helpful HVAC information from Boise HVAC Pros.',
-  alternates: { canonical: 'https://hvac-boise.com/resources/financing' },
+  alternates: { canonical: 'https://boise-movers.com/resources/financing' },
 }
 
 export default function FinancingPage() {

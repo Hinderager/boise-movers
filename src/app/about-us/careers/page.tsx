@@ -4,7 +4,7 @@ import { Phone } from 'lucide-react'
 export const metadata: Metadata = {
   title: 'Career Opportunities | Boise HVAC Pros',
   description: 'Career Opportunities - Boise HVAC Pros. Serving the Treasure Valley.',
-  alternates: { canonical: 'https://hvac-boise.com/about-us/careers' },
+  alternates: { canonical: 'https://boise-movers.com/about-us/careers' },
 }
 
 export default function CareersPage() {

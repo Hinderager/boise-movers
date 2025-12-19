@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: 'Terms of Service | Boise HVAC Pros',
   description: 'Terms of service for Boise HVAC Pros heating and cooling services in Boise and the Treasure Valley.',
   alternates: {
-    canonical: 'https://hvac-boise.com/terms',
+    canonical: 'https://boise-movers.com/terms',
   },
 }
 
@@ -125,7 +125,7 @@ export default function TermsPage() {
             </p>
             <ul>
               <li><strong>Phone:</strong> (208) 505-9352</li>
-              <li><strong>Email:</strong> info@hvac-boise.com</li>
+              <li><strong>Email:</strong> info@boise-movers.com</li>
             </ul>
           </div>
 

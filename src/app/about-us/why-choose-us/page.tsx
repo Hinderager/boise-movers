@@ -4,7 +4,7 @@ import { Phone } from 'lucide-react'
 export const metadata: Metadata = {
   title: 'Why Choose Boise HVAC Pros | Boise HVAC Pros',
   description: 'Why Choose Boise HVAC Pros - Boise HVAC Pros. Serving the Treasure Valley.',
-  alternates: { canonical: 'https://hvac-boise.com/about-us/why-choose-us' },
+  alternates: { canonical: 'https://boise-movers.com/about-us/why-choose-us' },
 }
 
 export default function WhyChooseUsPage() {

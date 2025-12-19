@@ -1,26 +1,26 @@
 import { Metadata } from 'next'
 import Image from 'next/image'
 import Link from 'next/link'
-import { CheckCircle, MapPin, Phone, ArrowRight } from 'lucide-react'
+import { CheckCircle, MapPin, Phone } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'HVAC Services Eagle Idaho | AC & Heating | Boise HVAC Pros',
-  description: 'Professional HVAC services in Eagle, Idaho. AC repair, furnace installation, heating services. Licensed & insured. 24/7 emergency service. Call (208) 505-9352.',
-  keywords: ['HVAC Eagle', 'AC repair Eagle Idaho', 'furnace repair Eagle', 'heating services Eagle', 'air conditioning Eagle'],
+  title: 'Movers Eagle Idaho | Boise Movers',
+  description: 'Professional movers in Eagle, Idaho. Local and long-distance moves, packing, loading help. Licensed & insured. Call (208) 505-9352.',
+  keywords: ['movers Eagle', 'moving company Eagle Idaho', 'local movers Eagle', 'moving services Eagle'],
   alternates: {
-    canonical: 'https://hvac-boise.com/cities-served/eagle',
+    canonical: 'https://boise-movers.com/cities-served/eagle',
   },
 }
 
-const neighborhoods = ['Downtown Eagle', 'North Eagle', 'South Eagle', 'Eagle Foothills', 'Floating Feather', 'Banbury Meadows', 'Dry Creek', 'Hidden Springs', 'Avimor', 'Eagle Island', 'Linder Road', 'State Street']
+const neighborhoods = ['Downtown Eagle', 'Eagle Hills', 'Hidden Springs', 'Avimor', 'Eagle Island', 'Floating Feather', 'Banbury']
 
 const services = [
-  { name: 'AC Repair', href: '/cities-served/eagle/ac-repair', description: 'Fast air conditioning repair' },
-  { name: 'AC Installation', href: '/cities-served/eagle/ac-installation', description: 'New AC system installation' },
-  { name: 'Furnace Repair', href: '/cities-served/eagle/furnace-repair', description: 'Expert furnace repair' },
-  { name: 'Furnace Installation', href: '/cities-served/eagle/furnace-installation', description: 'New furnace installation' },
-  { name: 'Heat Pump Service', href: '/cities-served/eagle/heat-pump-repair', description: 'Heat pump repair & install' },
-  { name: 'HVAC Maintenance', href: '/cities-served/eagle/hvac-maintenance', description: 'Preventive maintenance' },
+  { name: 'Local Moving', href: '/cities-served/eagle/local-moving', description: 'Same-day local moves in the Treasure Valley' },
+  { name: 'Apartment Moving', href: '/cities-served/eagle/apartment-moving', description: 'Apartment and condo moving services' },
+  { name: 'Residential Moving', href: '/cities-served/eagle/residential-moving', description: 'Full-service home moving' },
+  { name: 'Loading Help', href: '/cities-served/eagle/loading-help', description: 'Professional loading and unloading' },
+  { name: 'Packing Services', href: '/cities-served/eagle/packing-services', description: 'Expert packing and unpacking' },
+  { name: 'Furniture Moving', href: '/cities-served/eagle/furniture-moving', description: 'Heavy furniture and piano moving' },
 ]
 
 export default function EaglePage() {
@@ -28,16 +28,16 @@ export default function EaglePage() {
     <main className="pt-20">
       <section className="relative py-24 md:py-32">
         <Image
-          src="/generated/eagle-hvac.webp"
-          alt="HVAC Services in Eagle, Idaho"
+          src="/generated/eagle-movers.webp"
+          alt="Movers in Eagle, Idaho"
           fill
           priority
           className="object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-r from-dark-blue/90 to-dark-blue/70" />
         <div className="relative z-10 container mx-auto px-4 text-center">
-          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6">HVAC Services in Eagle</h1>
-          <p className="text-xl text-gray-200 max-w-3xl mx-auto mb-8">Professional heating and cooling services for Eagle homes and businesses. Licensed, insured, and available 24/7.</p>
+          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6">Movers in Eagle</h1>
+          <p className="text-xl text-gray-200 max-w-3xl mx-auto mb-8">Professional moving services for Eagle homes and businesses. Fast, careful, and affordable.</p>
           <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
             <Phone className="w-5 h-5" />(208) 505-9352
           </a>
@@ -47,10 +47,10 @@ export default function EaglePage() {
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto">
-            <h2 className="text-3xl font-bold text-dark-blue mb-6">Eagle HVAC Services</h2>
+            <h2 className="text-3xl font-bold text-dark-blue mb-6">Eagle Moving Services</h2>
             <div className="prose prose-lg max-w-none text-gray-600 mb-8">
-              <p>Eagle is an affluent suburb known for its beautiful foothill properties. With varied temperatures due to foothill elevation changes, your HVAC system works hard year-round. When you need heating or cooling service in Eagle, Boise HVAC Pros is here to help.</p>
-              <p>We've served Eagle homeowners for years, handling everything from emergency AC repairs during summer heat waves to furnace installations before winter hits. Our technicians know Eagle homes and the unique HVAC challenges they face.</p>
+              <p>Moving in Eagle? We've got you covered. Whether you're heading across town or across the state, our team handles your stuff like it's our own.</p>
+              <p>We've moved hundreds of Eagle families. Apartments, houses, offices - we know the area and we know how to get you settled fast without the stress.</p>
             </div>
 
             <h3 className="text-2xl font-bold text-dark-blue mb-6">Our Services in Eagle</h3>
@@ -73,29 +73,29 @@ export default function EaglePage() {
               ))}
             </div>
 
-            <h3 className="text-2xl font-bold text-dark-blue mb-6">Why Eagle Homeowners Choose Us</h3>
+            <h3 className="text-2xl font-bold text-dark-blue mb-6">Why Eagle Residents Choose Us</h3>
             <ul className="space-y-4">
               <li className="flex items-start gap-3">
                 <CheckCircle className="w-6 h-6 text-green-500 flex-shrink-0 mt-0.5" />
-                <span className="text-gray-700"><strong>Local Service:</strong> We're based in the Treasure Valley and know Eagle well.</span>
+                <span className="text-gray-700"><strong>Local Knowledge:</strong> We know Eagle streets, buildings, and neighborhoods.</span>
               </li>
               <li className="flex items-start gap-3">
                 <CheckCircle className="w-6 h-6 text-green-500 flex-shrink-0 mt-0.5" />
-                <span className="text-gray-700"><strong>Fast Response:</strong> Same-day service available for Eagle residents.</span>
+                <span className="text-gray-700"><strong>Fast Response:</strong> Same-day and next-day moves often available.</span>
               </li>
               <li className="flex items-start gap-3">
                 <CheckCircle className="w-6 h-6 text-green-500 flex-shrink-0 mt-0.5" />
-                <span className="text-gray-700"><strong>24/7 Emergency:</strong> HVAC emergencies don't wait—neither do we.</span>
+                <span className="text-gray-700"><strong>Careful Handling:</strong> Your furniture arrives in the same condition it left.</span>
               </li>
               <li className="flex items-start gap-3">
                 <CheckCircle className="w-6 h-6 text-green-500 flex-shrink-0 mt-0.5" />
-                <span className="text-gray-700"><strong>Fair Pricing:</strong> Upfront quotes with no hidden fees.</span>
+                <span className="text-gray-700"><strong>Fair Pricing:</strong> Upfront quotes with no hidden fees or surprises.</span>
               </li>
             </ul>
 
             <div className="mt-12 p-8 bg-dark-blue rounded-xl text-center">
-              <h3 className="text-2xl font-bold text-white mb-4">Need HVAC Service in Eagle?</h3>
-              <p className="text-gray-300 mb-6">Call us for a free estimate. We'll get your system running right.</p>
+              <h3 className="text-2xl font-bold text-white mb-4">Need Movers in Eagle?</h3>
+              <p className="text-gray-300 mb-6">Call us for a free moving estimate.</p>
               <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
                 <Phone className="w-5 h-5" />(208) 505-9352
               </a>
@@ -112,7 +112,7 @@ export default function EaglePage() {
             <Link href="/cities-served/meridian" className="text-dark-blue underline hover:text-[#0b7fb6] font-medium">Meridian</Link>
             <Link href="/cities-served/nampa" className="text-dark-blue underline hover:text-[#0b7fb6] font-medium">Nampa</Link>
             <Link href="/cities-served/caldwell" className="text-dark-blue underline hover:text-[#0b7fb6] font-medium">Caldwell</Link>
-            <Link href="/cities-served/garden-city" className="text-dark-blue underline hover:text-[#0b7fb6] font-medium">Garden City</Link>
+            <Link href="/cities-served/eagle" className="text-dark-blue underline hover:text-[#0b7fb6] font-medium">Eagle</Link>
           </div>
         </div>
       </section>

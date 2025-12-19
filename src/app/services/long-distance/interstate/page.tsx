@@ -29,7 +29,7 @@ export default function InterstatePage() {
           <div className="prose prose-lg max-w-none">
             <h2>Moving Across State Lines?</h2>
             <p>
-              Interstate moves come with extra layers of complexity. You're dealing with different regulations, longer distances, and more logistics than a local move. It's not just about loading a truck—it's about coordinating timing, planning routes, and making sure everything arrives safely.
+              Interstate moves come with extra layers of complexity. You're dealing with different regulations, longer distances, and more logistics than a local move. It's not just about loading a truck-it's about coordinating timing, planning routes, and making sure everything arrives safely.
             </p>
             <p>
               We handle interstate moves all the time. Whether you're leaving Idaho or moving here from another state, we'll take care of the details so you don't have to.
@@ -58,7 +58,7 @@ export default function InterstatePage() {
               We start with a consultation to understand what you're moving and where it's going. We can do this over the phone, via video, or in person.
             </p>
             <p>
-              From there, we give you a detailed quote based on the weight of your belongings and the distance. No hidden fees—you'll know the cost upfront.
+              From there, we give you a detailed quote based on the weight of your belongings and the distance. No hidden fees-you'll know the cost upfront.
             </p>
             <p>
               On moving day, we load everything carefully, secure it for the trip, and transport it to your new home. Once we arrive, we unload and place items where you want them.
@@ -95,7 +95,7 @@ export default function InterstatePage() {
 
             <h2>Why Choose Professional Interstate Movers?</h2>
             <p>
-              Some people consider doing it themselves—renting a truck, loading it up, and driving across state lines. Here's the thing: it's exhausting, time-consuming, and often more expensive than you'd think.
+              Some people consider doing it themselves-renting a truck, loading it up, and driving across state lines. Here's the thing: it's exhausting, time-consuming, and often more expensive than you'd think.
             </p>
             <p>
               Between fuel costs, truck rental fees, lodging, meals, and time off work, the "savings" disappear fast. Plus, if something breaks or you get injured, you're on your own.

@@ -4,7 +4,7 @@ import { Phone } from 'lucide-react'
 export const metadata: Metadata = {
   title: 'DIY HVAC Tips | Boise HVAC Pros',
   description: 'DIY HVAC Tips - Helpful HVAC information from Boise HVAC Pros.',
-  alternates: { canonical: 'https://hvac-boise.com/resources/hvac-tips' },
+  alternates: { canonical: 'https://boise-movers.com/resources/hvac-tips' },
 }
 
 export default function HVACTipsPage() {

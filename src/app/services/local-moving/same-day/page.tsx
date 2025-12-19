@@ -29,13 +29,13 @@ export default function SameDayPage() {
           <div className="prose prose-lg max-w-none">
             <h2>Need to Move Right Now?</h2>
             <p>
-              Sometimes life doesn't give you much notice. Maybe your lease ended sooner than you thought. Maybe a deal on a new place came through suddenly. Maybe you just need to get out—fast.
+              Sometimes life doesn't give you much notice. Maybe your lease ended sooner than you thought. Maybe a deal on a new place came through suddenly. Maybe you just need to get out-fast.
             </p>
             <p>
               We get it. And we can help.
             </p>
             <p>
-              If you call us before noon and we have availability, there's a good chance we can get a crew out the same day. It's not guaranteed—it depends on our schedule—but we'll do our best to make it happen.
+              If you call us before noon and we have availability, there's a good chance we can get a crew out the same day. It's not guaranteed-it depends on our schedule-but we'll do our best to make it happen.
             </p>
 
             <h2>How Same-Day Moving Works</h2>
@@ -43,7 +43,7 @@ export default function SameDayPage() {
               Call us as early in the day as possible. If we have a crew available, we'll give you a time window and a price estimate based on what you're moving.
             </p>
             <p>
-              We charge by the hour for local moves, just like we do for scheduled moves. Same-day doesn't mean you pay extra—it just means we're fitting you in on short notice.
+              We charge by the hour for local moves, just like we do for scheduled moves. Same-day doesn't mean you pay extra-it just means we're fitting you in on short notice.
             </p>
             <p>
               Once we confirm availability, we'll show up, load your stuff, and get you moved. Simple as that.
@@ -79,7 +79,7 @@ export default function SameDayPage() {
               We can, but here's the thing: packing takes time. If you need us to pack everything and move you the same day, that's going to take longer (and cost more).
             </p>
             <p>
-              If you're trying to keep costs down and move fast, it helps if you've already packed (or are at least working on it). We'll load and transport everything—you just need to have it boxed up and ready to go.
+              If you're trying to keep costs down and move fast, it helps if you've already packed (or are at least working on it). We'll load and transport everything-you just need to have it boxed up and ready to go.
             </p>
             <p>
               If packing is part of the problem, let us know. We'll figure something out.
@@ -87,7 +87,7 @@ export default function SameDayPage() {
 
             <h2>What About Large or Heavy Items?</h2>
             <p>
-              We move everything—couches, beds, refrigerators, washers, dryers, pianos, you name it. If it's heavy, awkward, or hard to move, we've got the equipment and experience to handle it.
+              We move everything-couches, beds, refrigerators, washers, dryers, pianos, you name it. If it's heavy, awkward, or hard to move, we've got the equipment and experience to handle it.
             </p>
             <p>
               Same-day moves are no different in that regard. We bring the same trucks, tools, and crew that we'd bring for a scheduled move.
@@ -111,7 +111,7 @@ export default function SameDayPage() {
 
             <h2>We Cover the Whole Treasure Valley</h2>
             <p>
-              Boise, Meridian, Nampa, Caldwell, Eagle, Kuna, Star—wherever you need to move in the area, we've got you covered. We know these cities well, so we can move fast and efficiently.
+              Boise, Meridian, Nampa, Caldwell, Eagle, Kuna, Star-wherever you need to move in the area, we've got you covered. We know these cities well, so we can move fast and efficiently.
             </p>
 
             <h2>Tips for a Smooth Same-Day Move</h2>

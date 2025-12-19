@@ -55,7 +55,7 @@ export default function ResidentialPage() {
 
             <h2>What About Large or Heavy Items?</h2>
             <p>
-              We move everything. Couches, beds, dressers, refrigerators, washers, dryers—you name it. If you've got a piano, safe, or heavy antique furniture, we've handled those too.
+              We move everything. Couches, beds, dressers, refrigerators, washers, dryers-you name it. If you've got a piano, safe, or heavy antique furniture, we've handled those too.
             </p>
             <p>
               We bring the right equipment (dollies, straps, blankets) to protect your stuff and make the move go smoothly. No guessing, no improvising.
@@ -63,7 +63,7 @@ export default function ResidentialPage() {
 
             <h2>Do You Pack Too?</h2>
             <p>
-              Yes. If you want us to pack, we can do that. We'll bring boxes, tape, bubble wrap, and everything else you need. Or, if you prefer to pack yourself, that's fine—we'll just handle the loading and transport.
+              Yes. If you want us to pack, we can do that. We'll bring boxes, tape, bubble wrap, and everything else you need. Or, if you prefer to pack yourself, that's fine-we'll just handle the loading and transport.
             </p>
             <p>
               Either way works. Just let us know what you'd prefer when you call.
@@ -71,7 +71,7 @@ export default function ResidentialPage() {
 
             <h2>What About Stairs, Tight Hallways, and Tricky Access?</h2>
             <p>
-              We deal with that stuff all the time. Narrow staircases, tight doorways, second-floor apartments—it's part of the job.
+              We deal with that stuff all the time. Narrow staircases, tight doorways, second-floor apartments-it's part of the job.
             </p>
             <p>
               If we need to take apart furniture to get it through a door, we'll do it. And we'll put it back together on the other end. No problem.
@@ -79,7 +79,7 @@ export default function ResidentialPage() {
 
             <h2>We Move Throughout the Treasure Valley</h2>
             <p>
-              Boise, Meridian, Nampa, Caldwell, Eagle, Kuna, Star, Garden City—wherever you're moving in the area, we've got you covered. We know these neighborhoods well, so we can plan the most efficient route and timeline.
+              Boise, Meridian, Nampa, Caldwell, Eagle, Kuna, Star, Garden City-wherever you're moving in the area, we've got you covered. We know these neighborhoods well, so we can plan the most efficient route and timeline.
             </p>
 
             <h2>Why Hire Professional Movers?</h2>
@@ -95,7 +95,7 @@ export default function ResidentialPage() {
 
             <h2>What Makes a Good Residential Move?</h2>
             <p>
-              Good movers show up on time, handle your stuff carefully, and communicate throughout the process. We're not trying to rush through your move—we're trying to do it right.
+              Good movers show up on time, handle your stuff carefully, and communicate throughout the process. We're not trying to rush through your move-we're trying to do it right.
             </p>
             <p>
               We'll wrap furniture, pad appliances, and make sure boxes are stacked securely in the truck. When we get to your new place, we'll unload and place items where you want them. No dropping boxes in a pile and leaving.

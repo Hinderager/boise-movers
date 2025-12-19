@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: 'Privacy Policy | Boise HVAC Pros',
   description: 'Privacy policy for Boise HVAC Pros - how we collect, use, and protect your personal information.',
   alternates: {
-    canonical: 'https://hvac-boise.com/privacy',
+    canonical: 'https://boise-movers.com/privacy',
   },
 }
 
@@ -110,7 +110,7 @@ export default function PrivacyPage() {
             </p>
             <ul>
               <li><strong>Phone:</strong> (208) 505-9352</li>
-              <li><strong>Email:</strong> info@hvac-boise.com</li>
+              <li><strong>Email:</strong> info@boise-movers.com</li>
             </ul>
           </div>
 

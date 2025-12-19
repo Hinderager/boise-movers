@@ -5,9 +5,9 @@ import { Users, CheckCircle, AlertTriangle } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'How to Choose an HVAC Contractor in Boise | Boise HVAC Pros',
-  description: 'Not all HVAC companies in Boise are the same. Here\'s what to look for when choosing an HVAC contractor—and red flags to avoid.',
+  description: 'Not all HVAC companies in Boise are the same. Here\'s what to look for when choosing an HVAC contractor-and red flags to avoid.',
   alternates: {
-    canonical: 'https://hvac-boise.com/blogs/choosing-hvac-contractor-boise',
+    canonical: 'https://boise-movers.com/blogs/choosing-hvac-contractor-boise',
   },
 }
 
@@ -54,7 +54,7 @@ export default function BlogPost() {
               Choosing an HVAC contractor matters more than most people realize. A good company diagnoses correctly, charges fairly, and does quality work. A bad one misdiagnoses problems, overcharges, or does shoddy work that creates bigger problems later.
             </p>
             <p className="text-lg text-gray-600 leading-relaxed">
-              Here's what to look for—and what to avoid—when choosing an HVAC company in the Treasure Valley.
+              Here's what to look for-and what to avoid-when choosing an HVAC company in the Treasure Valley.
             </p>
           </div>
         </div>
@@ -72,7 +72,7 @@ export default function BlogPost() {
             </div>
 
             <p className="text-lg text-gray-700 leading-relaxed mb-6">
-              Idaho requires HVAC contractors to be licensed. This isn't just bureaucracy—it means they've met minimum standards for training and competence. Always verify licensing before hiring anyone.
+              Idaho requires HVAC contractors to be licensed. This isn't just bureaucracy-it means they've met minimum standards for training and competence. Always verify licensing before hiring anyone.
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
@@ -80,7 +80,7 @@ export default function BlogPost() {
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed">
-              Insurance matters too. Proper liability insurance protects you if something goes wrong during the work. Workers' compensation protects their employees—and keeps you from liability if someone gets hurt on your property. Ask for proof of both.
+              Insurance matters too. Proper liability insurance protects you if something goes wrong during the work. Workers' compensation protects their employees-and keeps you from liability if someone gets hurt on your property. Ask for proof of both.
             </p>
           </div>
         </div>
@@ -97,7 +97,7 @@ export default function BlogPost() {
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
-              Online reviews help, but read them critically. Look for patterns rather than individual complaints. Every company gets an occasional bad review. But if multiple people mention the same issue—surprise charges, missed appointments, poor communication—pay attention.
+              Online reviews help, but read them critically. Look for patterns rather than individual complaints. Every company gets an occasional bad review. But if multiple people mention the same issue-surprise charges, missed appointments, poor communication-pay attention.
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
@@ -126,7 +126,7 @@ export default function BlogPost() {
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
-              Be cautious of quotes that seem dramatically lower than others. HVAC work has real costs—parts, labor, insurance, overhead. A company significantly undercutting everyone else is either cutting corners somewhere or planning to upsell you later.
+              Be cautious of quotes that seem dramatically lower than others. HVAC work has real costs-parts, labor, insurance, overhead. A company significantly undercutting everyone else is either cutting corners somewhere or planning to upsell you later.
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed">

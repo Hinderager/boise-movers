@@ -45,7 +45,7 @@ export default function MovingChecklistPage() {
                   </li>
                   <li className="flex items-start gap-3">
                     <CheckSquare className="w-6 h-6 text-[#FFC845] flex-shrink-0 mt-0.5" />
-                    <span className="text-gray-700"><strong>Notify your landlord:</strong> Check your lease for notice requirements—usually 30-60 days</span>
+                    <span className="text-gray-700"><strong>Notify your landlord:</strong> Check your lease for notice requirements-usually 30-60 days</span>
                   </li>
                 </ul>
               </div>
@@ -63,7 +63,7 @@ export default function MovingChecklistPage() {
                   </li>
                   <li className="flex items-start gap-3">
                     <CheckSquare className="w-6 h-6 text-[#FFC845] flex-shrink-0 mt-0.5" />
-                    <span className="text-gray-700"><strong>Change your address:</strong> File a change of address with USPS—do it online or at the post office</span>
+                    <span className="text-gray-700"><strong>Change your address:</strong> File a change of address with USPS-do it online or at the post office</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <CheckSquare className="w-6 h-6 text-[#FFC845] flex-shrink-0 mt-0.5" />
@@ -153,7 +153,7 @@ export default function MovingChecklistPage() {
                   </li>
                   <li className="flex items-start gap-3">
                     <CheckSquare className="w-6 h-6 text-[#FFC845] flex-shrink-0 mt-0.5" />
-                    <span className="text-gray-700"><strong>Take meter readings:</strong> Water, gas, electric—document the final numbers</span>
+                    <span className="text-gray-700"><strong>Take meter readings:</strong> Water, gas, electric-document the final numbers</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <CheckSquare className="w-6 h-6 text-[#FFC845] flex-shrink-0 mt-0.5" />

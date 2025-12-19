@@ -45,19 +45,19 @@ export default function SpecialtyPage() {
 
             <h3>Antiques and Fine Furniture</h3>
             <p>
-              Heirloom furniture, antique dressers, china cabinets—things that can't just be replaced if they get scratched
+              Heirloom furniture, antique dressers, china cabinets-things that can't just be replaced if they get scratched
               or broken. We wrap them properly and handle them with care.
             </p>
 
             <h3>Heavy Furniture and Appliances</h3>
             <p>
-              Gun safes, pool tables, industrial equipment, commercial refrigerators—if it weighs more than two people
+              Gun safes, pool tables, industrial equipment, commercial refrigerators-if it weighs more than two people
               should be lifting, we'll bring the right tools and extra help.
             </p>
 
             <h3>Artwork and Mirrors</h3>
             <p>
-              Large paintings, framed art, mirrors—anything that's fragile and won't fit in a regular box.
+              Large paintings, framed art, mirrors-anything that's fragile and won't fit in a regular box.
               We've got specialty crates and packing materials for this kind of stuff.
             </p>
 
@@ -70,7 +70,7 @@ export default function SpecialtyPage() {
 
             <h2>How Is This Different from a Regular Move?</h2>
             <p>
-              Specialty moves take more planning and preparation. We might need extra equipment—piano dollies,
+              Specialty moves take more planning and preparation. We might need extra equipment-piano dollies,
               lift straps, custom crating. We'll talk through the details ahead of time so we show up ready.
             </p>
 
@@ -89,7 +89,7 @@ export default function SpecialtyPage() {
             <h2>What If My Item Is Really Valuable?</h2>
             <p>
               We're insured, and we take this stuff seriously. If you've got something particularly valuable or
-              irreplaceable, let us know up front. We can take extra precautions—custom crating, additional insurance,
+              irreplaceable, let us know up front. We can take extra precautions-custom crating, additional insurance,
               whatever makes sense.
             </p>
 

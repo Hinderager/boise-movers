@@ -5,7 +5,7 @@ import { ArrowRight, Phone } from 'lucide-react'
 export const metadata: Metadata = {
   title: 'HVAC Resources | Tips & Guides | Boise HVAC Pros',
   description: 'HVAC resources, tips, and guides from Boise HVAC Pros. Learn about heating and cooling for your home.',
-  alternates: { canonical: 'https://hvac-boise.com/resources' },
+  alternates: { canonical: 'https://boise-movers.com/resources' },
 }
 
 const resources = [

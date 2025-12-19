@@ -4,7 +4,7 @@ import { Phone } from 'lucide-react'
 export const metadata: Metadata = {
   title: 'Customer Reviews & Testimonials | Boise HVAC Pros',
   description: 'Customer Reviews & Testimonials - Boise HVAC Pros. Serving the Treasure Valley.',
-  alternates: { canonical: 'https://hvac-boise.com/about-us/testimonials' },
+  alternates: { canonical: 'https://boise-movers.com/about-us/testimonials' },
 }
 
 export default function TestimonialsPage() {

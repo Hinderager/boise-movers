@@ -5,7 +5,7 @@ import { CheckCircle, Phone, Award, Shield, Users } from 'lucide-react'
 export const metadata: Metadata = {
   title: 'About Us | Boise HVAC Pros',
   description: 'Learn about Boise HVAC Pros. Local HVAC experts serving the Treasure Valley. Licensed, insured, and committed to quality service.',
-  alternates: { canonical: 'https://hvac-boise.com/about-us' },
+  alternates: { canonical: 'https://boise-movers.com/about-us' },
 }
 
 export default function AboutPage() {

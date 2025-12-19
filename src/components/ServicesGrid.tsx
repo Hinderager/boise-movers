@@ -8,8 +8,8 @@ import Link from 'next/link'
 
 const services = [
   { icon: Truck, title: 'Local & Long Distance', description: 'Moving across town or across the country? We handle local and long-distance moves with the same care and expertise.', href: '/services/local-moving' },
-  { icon: Package, title: 'Packing Services', description: 'Don't want to pack? We'll do it for you. Professional packing ensures your stuff arrives safely without the stress.', href: '/services/packing' },
-  { icon: Users, title: 'Loading & Unloading', description: 'Rented a truck but need help? We'll load or unload your belongings quickly and carefully.', href: '/services/loading-unloading' },
+  { icon: Package, title: 'Packing Services', description: 'Do not want to pack? We will do it for you. Professional packing ensures your stuff arrives safely without the stress.', href: '/services/packing' },
+  { icon: Users, title: 'Loading & Unloading', description: 'Rented a truck but need help? We will load or unload your belongings quickly and carefully.', href: '/services/loading-unloading' },
   { icon: Home, title: 'Specialty Moving', description: 'Piano? Heavy furniture? Senior moving assistance? We have experience with items that need extra care.', href: '/services/specialty' },
 ]
 

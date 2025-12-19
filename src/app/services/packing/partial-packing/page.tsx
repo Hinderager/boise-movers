@@ -52,7 +52,7 @@ export default function PartialPackingPage() {
 
             <h2>Completely Flexible</h2>
             <p>
-              Tell us what you need packed—could be one room, a few boxes of breakables, or anything in between. We'll bring the right supplies and get it done.
+              Tell us what you need packed-could be one room, a few boxes of breakables, or anything in between. We'll bring the right supplies and get it done.
             </p>
             <p>
               If you're doing most of the packing yourself, we can also show up on moving day and pack up any last-minute stuff you didn't get to.

@@ -6,13 +6,13 @@ import { Button } from '@/components/ui/button'
 import { Star, ChevronLeft, ChevronRight } from 'lucide-react'
 
 const staticReviews = [
-  { author: 'Mike R.', relative_time: '2 weeks ago', rating: 5, text: 'These guys made our move so much easier than expected. They showed up on time, worked fast, and were careful with everything. No hidden fees either—the final price matched the quote exactly.' },
+  { author: 'Mike R.', relative_time: '2 weeks ago', rating: 5, text: 'These guys made our move so much easier than expected. They showed up on time, worked fast, and were careful with everything. No hidden fees either - the final price matched the quote exactly.' },
   { author: 'Sarah T.', relative_time: '1 month ago', rating: 5, text: 'Moved our entire 3-bedroom house in one day. The crew was professional, friendly, and nothing got damaged. They even reassembled our furniture. Worth every penny.' },
   { author: 'David L.', relative_time: '3 weeks ago', rating: 5, text: 'We needed help loading a U-Haul and these guys were lifesavers. They loaded everything in half the time it would have taken us and made sure it was packed tight so nothing shifted during the drive.' },
   { author: 'Jennifer M.', relative_time: '2 months ago', rating: 5, text: 'Long distance move from Boise to Portland went smoothly. They handled all our stuff with care and delivered everything on schedule. Great communication throughout the whole process.' },
   { author: 'Chris B.', relative_time: '1 week ago', rating: 5, text: 'Honest movers are hard to find. These guys gave us a fair quote and stuck to it. No surprise charges. They treated our belongings like their own. Will definitely use them again.' },
-  { author: 'Amanda K.', relative_time: '1 month ago', rating: 5, text: 'They moved my elderly mother into an assisted living facility. The crew was patient, respectful, and understanding of the emotional situation. Can\'t thank them enough.' },
-  { author: 'Tom H.', relative_time: '3 weeks ago', rating: 5, text: 'Best moving experience I've had. They packed fragile items professionally, moved our piano without a scratch, and even helped rearrange furniture at the new place. Top-notch service.' },
+  { author: 'Amanda K.', relative_time: '1 month ago', rating: 5, text: 'They moved my elderly mother into an assisted living facility. The crew was patient, respectful, and understanding of the emotional situation. Cannot thank them enough.' },
+  { author: 'Tom H.', relative_time: '3 weeks ago', rating: 5, text: 'Best moving experience I have had. They packed fragile items professionally, moved our piano without a scratch, and even helped rearrange furniture at the new place. Top-notch service.' },
   { author: 'Lisa P.', relative_time: '2 weeks ago', rating: 5, text: 'Best movers in Boise! Fast, careful, reasonably priced. They made a stressful day actually manageable. The crew was friendly and worked their tails off. Highly recommend!' },
 ]
 

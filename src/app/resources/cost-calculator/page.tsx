@@ -28,7 +28,7 @@ export default function CostCalculatorPage() {
                 <DollarSign className="w-6 h-6 text-[#FFC845] flex-shrink-0 mt-1" />
                 <div>
                   <h3 className="font-bold text-dark-blue mb-2">Want an Exact Quote?</h3>
-                  <p className="text-gray-600 mb-3">The best way to know what your move will cost is to call us. We'll ask a few questions and give you an accurate estimate—usually within a few minutes.</p>
+                  <p className="text-gray-600 mb-3">The best way to know what your move will cost is to call us. We'll ask a few questions and give you an accurate estimate-usually within a few minutes.</p>
                   <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-dark-blue text-white px-6 py-2 rounded-lg font-bold hover:bg-[#1a5a9e] transition-colors">
                     <Phone className="w-4 h-4" />(208) 505-9352
                   </a>
@@ -127,11 +127,11 @@ export default function CostCalculatorPage() {
             <div className="bg-blue-50 border-l-4 border-dark-blue p-6 mb-8">
               <h3 className="font-bold text-dark-blue mb-3">How to Keep Costs Down</h3>
               <ul className="space-y-2 text-gray-700">
-                <li>• Declutter before you move—less stuff = less time</li>
+                <li>• Declutter before you move-less stuff = less time</li>
                 <li>• Pack yourself if you're able</li>
                 <li>• Disassemble furniture ahead of time</li>
                 <li>• Move mid-week or mid-month (less demand, more availability)</li>
-                <li>• Be ready when the crew arrives—clear pathways, everything packed and accessible</li>
+                <li>• Be ready when the crew arrives-clear pathways, everything packed and accessible</li>
               </ul>
             </div>
 

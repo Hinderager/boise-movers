@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: 'Seasonal HVAC Maintenance for Idaho Homes | Boise HVAC Pros',
   description: 'Idaho puts your HVAC system through extremes. Here\'s how to maintain your heating and cooling equipment through Boise\'s hot summers and cold winters.',
   alternates: {
-    canonical: 'https://hvac-boise.com/blogs/seasonal-hvac-maintenance',
+    canonical: 'https://boise-movers.com/blogs/seasonal-hvac-maintenance',
   },
 }
 
@@ -76,7 +76,7 @@ export default function BlogPost() {
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
-              <strong>Schedule AC maintenance.</strong> This is the best time—HVAC companies aren't slammed yet, and if there's a problem, you have time to fix it before heat waves hit. A spring tune-up typically includes cleaning coils, checking refrigerant, testing electrical connections, and verifying the system starts and runs properly.
+              <strong>Schedule AC maintenance.</strong> This is the best time-HVAC companies aren't slammed yet, and if there's a problem, you have time to fix it before heat waves hit. A spring tune-up typically includes cleaning coils, checking refrigerant, testing electrical connections, and verifying the system starts and runs properly.
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
@@ -113,11 +113,11 @@ export default function BlogPost() {
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
-              <strong>Watch for warning signs.</strong> The system running constantly, warm air from vents, strange noises, ice on refrigerant lines—these all indicate problems. Catch them early before a minor issue becomes a major breakdown.
+              <strong>Watch for warning signs.</strong> The system running constantly, warm air from vents, strange noises, ice on refrigerant lines-these all indicate problems. Catch them early before a minor issue becomes a major breakdown.
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed">
-              <strong>Be realistic about temperature.</strong> Most AC systems are designed to cool about 20 degrees below outdoor temperature. When it's 105 outside, your house might only get to 85. That's not a malfunction—it's just physics. Running your system harder won't change that; it'll just stress the equipment.
+              <strong>Be realistic about temperature.</strong> Most AC systems are designed to cool about 20 degrees below outdoor temperature. When it's 105 outside, your house might only get to 85. That's not a malfunction-it's just physics. Running your system harder won't change that; it'll just stress the equipment.
             </p>
           </div>
         </div>
@@ -139,7 +139,7 @@ export default function BlogPost() {
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
-              <strong>Schedule furnace maintenance.</strong> Same logic as spring AC maintenance—do it before the rush. A fall tune-up includes checking the heat exchanger for cracks (safety issue), cleaning burners, testing safety controls, and verifying the system fires and heats properly.
+              <strong>Schedule furnace maintenance.</strong> Same logic as spring AC maintenance-do it before the rush. A fall tune-up includes checking the heat exchanger for cracks (safety issue), cleaning burners, testing safety controls, and verifying the system fires and heats properly.
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
@@ -173,7 +173,7 @@ export default function BlogPost() {
             </div>
 
             <p className="text-lg text-blue-100 leading-relaxed mb-6">
-              Idaho winters mean your furnace works hard. Here's how to help it—and what to watch for:
+              Idaho winters mean your furnace works hard. Here's how to help it-and what to watch for:
             </p>
 
             <p className="text-lg text-blue-100 leading-relaxed mb-6">
@@ -185,11 +185,11 @@ export default function BlogPost() {
             </p>
 
             <p className="text-lg text-blue-100 leading-relaxed mb-6">
-              <strong>Monitor for issues.</strong> Strange smells, unusual noises, short cycling, uneven heating—address these before they become emergencies. A furnace that struggles during mild cold weather will fail during the really cold nights.
+              <strong>Monitor for issues.</strong> Strange smells, unusual noises, short cycling, uneven heating-address these before they become emergencies. A furnace that struggles during mild cold weather will fail during the really cold nights.
             </p>
 
             <p className="text-lg text-blue-100 leading-relaxed">
-              <strong>Know your emergency plan.</strong> If heat fails when it's 10 degrees outside, what do you do? Have a backup plan—space heaters, a fireplace, a place to stay. And have an HVAC company's number ready. Emergency calls happen; being prepared makes them less stressful.
+              <strong>Know your emergency plan.</strong> If heat fails when it's 10 degrees outside, what do you do? Have a backup plan-space heaters, a fireplace, a place to stay. And have an HVAC company's number ready. Emergency calls happen; being prepared makes them less stressful.
             </p>
           </div>
         </div>
@@ -202,7 +202,7 @@ export default function BlogPost() {
             <h2 className="text-3xl font-bold text-gunmetal mb-6">Year-Round Basics</h2>
 
             <p className="text-lg text-gray-700 leading-relaxed mb-6">
-              Some maintenance tasks aren't seasonal—they're ongoing:
+              Some maintenance tasks aren't seasonal-they're ongoing:
             </p>
 
             <div className="space-y-4">
@@ -212,7 +212,7 @@ export default function BlogPost() {
               </div>
               <div className="flex items-start gap-3">
                 <CheckCircle className="w-6 h-6 text-green-500 flex-shrink-0 mt-0.5" />
-                <span className="text-gray-700"><strong>Keep vents unobstructed.</strong> This sounds obvious but gets overlooked. Furniture placement, storage, curtains—they creep over vents without you noticing.</span>
+                <span className="text-gray-700"><strong>Keep vents unobstructed.</strong> This sounds obvious but gets overlooked. Furniture placement, storage, curtains-they creep over vents without you noticing.</span>
               </div>
               <div className="flex items-start gap-3">
                 <CheckCircle className="w-6 h-6 text-green-500 flex-shrink-0 mt-0.5" />
@@ -238,11 +238,11 @@ export default function BlogPost() {
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
-              You can do a lot yourself—filter changes, clearing debris, keeping vents open. But professional maintenance catches things you can't see: refrigerant levels, electrical connections, heat exchanger condition, safety controls.
+              You can do a lot yourself-filter changes, clearing debris, keeping vents open. But professional maintenance catches things you can't see: refrigerant levels, electrical connections, heat exchanger condition, safety controls.
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed">
-              Think of it like oil changes for your car. Skip them and the car runs fine—until it doesn't. Regular maintenance isn't exciting, but it beats the alternative.
+              Think of it like oil changes for your car. Skip them and the car runs fine-until it doesn't. Regular maintenance isn't exciting, but it beats the alternative.
             </p>
           </div>
         </div>

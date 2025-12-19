@@ -3,7 +3,7 @@ import { Phone } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Unloading Service | Professional Movers in Boise, ID',
-  description: 'Need help unloading your moving truck or container? We'll unload everything and place it where you want. Fast service in Boise and Treasure Valley.',
+  description: 'Need help unloading your moving truck or container? We will unload everything and place it where you want. Fast service in Boise and Treasure Valley.',
   alternates: { canonical: 'https://boise-movers.com/services/loading-unloading/unloading' },
 }
 
@@ -23,7 +23,7 @@ export default function UnloadingPage() {
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4 max-w-4xl">
           <div className="prose prose-lg max-w-none">
-            <h2>You Made It—Now Let Us Unload</h2>
+            <h2>You Made It-Now Let Us Unload</h2>
             <p>
               You drove the truck yourself and saved some cash. Great. But you're exhausted, you don't have a crew lined up, and that couch isn't going to carry itself up the stairs.
             </p>
@@ -36,10 +36,10 @@ export default function UnloadingPage() {
               Our crew unloads the truck, brings everything into your home or business, and places items in the right rooms. If you want the couch in the living room and boxes in the garage, just point us in the right direction.
             </p>
             <p>
-              We'll also move furniture where you want it. If you change your mind halfway through, no problem—we'll shift things around.
+              We'll also move furniture where you want it. If you change your mind halfway through, no problem-we'll shift things around.
             </p>
             <p>
-              Heavy lifting, stairs, tight hallways—we handle it all. That's the whole point of hiring movers.
+              Heavy lifting, stairs, tight hallways-we handle it all. That's the whole point of hiring movers.
             </p>
 
             <h2>Works With Any Truck or Container</h2>

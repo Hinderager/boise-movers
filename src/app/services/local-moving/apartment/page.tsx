@@ -29,10 +29,10 @@ export default function ApartmentPage() {
           <div className="prose prose-lg max-w-none">
             <h2>Moving to or from an Apartment?</h2>
             <p>
-              Apartment moves come with their own set of challenges. Stairs, elevators, narrow hallways, parking restrictions—there's always something to figure out. And if you're on the third floor with no elevator? That's a workout.
+              Apartment moves come with their own set of challenges. Stairs, elevators, narrow hallways, parking restrictions-there's always something to figure out. And if you're on the third floor with no elevator? That's a workout.
             </p>
             <p>
-              We handle apartment moves every day. We know how to navigate tight spaces, manage building rules, and get your stuff moved efficiently. You focus on settling in—we'll handle the heavy lifting.
+              We handle apartment moves every day. We know how to navigate tight spaces, manage building rules, and get your stuff moved efficiently. You focus on settling in-we'll handle the heavy lifting.
             </p>
 
             <h2>What We Move</h2>
@@ -98,7 +98,7 @@ export default function ApartmentPage() {
 
             <h2>We Cover the Whole Treasure Valley</h2>
             <p>
-              Boise, Meridian, Nampa, Caldwell, Eagle, Kuna, Star—wherever you're moving in the area, we've got you covered. We know the apartment complexes around here, which makes things easier for everyone.
+              Boise, Meridian, Nampa, Caldwell, Eagle, Kuna, Star-wherever you're moving in the area, we've got you covered. We know the apartment complexes around here, which makes things easier for everyone.
             </p>
 
             <h2>Why Hire Professional Apartment Movers?</h2>
@@ -106,7 +106,7 @@ export default function ApartmentPage() {
               You might be thinking about doing it yourself. After all, you don't have that much stuff, right?
             </p>
             <p>
-              Here's the thing: even small moves are exhausting. Carrying boxes and furniture up and down stairs, wrestling a couch through a narrow hallway, loading a truck you're not used to driving—it adds up.
+              Here's the thing: even small moves are exhausting. Carrying boxes and furniture up and down stairs, wrestling a couch through a narrow hallway, loading a truck you're not used to driving-it adds up.
             </p>
             <p>
               By the time you rent a truck, buy supplies, and spend your whole day (or weekend) moving, you've probably spent more time and energy than it's worth. With professional movers, you're done in a few hours and you don't have to lift a thing.

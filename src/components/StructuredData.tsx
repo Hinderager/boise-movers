@@ -8,7 +8,7 @@ const cityCoordinates: Record<string, { lat: number; lng: number }> = {
 
 const faqData = [
   { question: 'How much does it cost to hire movers in Boise?', answer: 'Most local moves in Boise cost between $300-800 depending on the size of your home and amount of belongings. We provide exact quotes upfront with no hidden fees.' },
-  { question: 'Do I need to pack everything before movers arrive?', answer: 'No, we offer full packing services, partial packing, or you can pack yourself. We'll work with whatever fits your budget and preferences.' },
+  { question: 'Do I need to pack everything before movers arrive?', answer: 'No, we offer full packing services, partial packing, or you can pack yourself. We will work with whatever fits your budget and preferences.' },
   { question: 'Are you insured?', answer: 'Yes, we are fully licensed and insured. Your belongings are protected during the entire moving process.' },
   { question: 'How far in advance should I book movers?', answer: 'For local moves, 1-2 weeks is usually sufficient. For summer moves or weekends, book earlier. Long-distance moves should be booked 2-3 weeks in advance.' },
   { question: 'Can you move just heavy furniture?', answer: 'Absolutely. We handle small moves including pianos, safes, large furniture, and other heavy items.' },

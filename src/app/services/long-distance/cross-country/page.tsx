@@ -29,7 +29,7 @@ export default function CrossCountryPage() {
           <div className="prose prose-lg max-w-none">
             <h2>Moving Coast to Coast?</h2>
             <p>
-              Cross-country moves are a big deal. You're not just moving to the next state—you're relocating across multiple time zones, climates, and thousands of miles. There's a lot to coordinate, and getting your stuff there safely requires planning and experience.
+              Cross-country moves are a big deal. You're not just moving to the next state-you're relocating across multiple time zones, climates, and thousands of miles. There's a lot to coordinate, and getting your stuff there safely requires planning and experience.
             </p>
             <p>
               We handle cross-country moves regularly. Whether you're headed to the East Coast, West Coast, or somewhere in between, we'll get your belongings there in one piece.
@@ -91,7 +91,7 @@ export default function CrossCountryPage() {
               Your stuff is going to spend a lot of time on the road. That means it needs to be packed carefully.
             </p>
             <p>
-              We can handle the packing for you—boxes, bubble wrap, blankets, the whole thing. Or, if you prefer to pack yourself, we'll load and transport everything safely.
+              We can handle the packing for you-boxes, bubble wrap, blankets, the whole thing. Or, if you prefer to pack yourself, we'll load and transport everything safely.
             </p>
             <p>
               Either way, we use blankets, straps, and padding to keep things secure during the trip. Nothing gets thrown around or damaged.

@@ -5,9 +5,9 @@ import { DollarSign, CheckCircle } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'HVAC Pricing Explained: What AC & Furnace Service Costs in Boise | Boise HVAC Pros',
-  description: 'How much does HVAC repair cost in Boise? Here\'s the straightforward explanation of HVAC pricing — service calls, repair costs, and what affects your quote in the Treasure Valley.',
+  description: 'How much does HVAC repair cost in Boise? Here\'s the straightforward explanation of HVAC pricing - service calls, repair costs, and what affects your quote in the Treasure Valley.',
   alternates: {
-    canonical: 'https://hvac-boise.com/blogs/hvac-pricing-explained',
+    canonical: 'https://boise-movers.com/blogs/hvac-pricing-explained',
   },
 }
 
@@ -54,7 +54,7 @@ export default function BlogPost() {
               Fair question. HVAC pricing can seem mysterious if you've never dealt with it before. Some companies are deliberately vague, which doesn't help. Others throw out numbers without explaining what you're actually paying for.
             </p>
             <p className="text-lg text-gray-600 leading-relaxed">
-              Here's how HVAC service pricing actually works in the Boise area—whether you're looking at repairs, maintenance, or a full system replacement.
+              Here's how HVAC service pricing actually works in the Boise area-whether you're looking at repairs, maintenance, or a full system replacement.
             </p>
           </div>
         </div>
@@ -72,7 +72,7 @@ export default function BlogPost() {
             </div>
 
             <p className="text-lg text-gray-700 leading-relaxed mb-6">
-              Most HVAC companies charge a service call fee—sometimes called a diagnostic fee or trip charge. In the Boise area, this typically runs $75-150. This covers the technician coming to your home and diagnosing the problem.
+              Most HVAC companies charge a service call fee-sometimes called a diagnostic fee or trip charge. In the Boise area, this typically runs $75-150. This covers the technician coming to your home and diagnosing the problem.
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
@@ -80,7 +80,7 @@ export default function BlogPost() {
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed">
-              Some companies waive the service call fee if you proceed with the repair. Others don't. Neither approach is right or wrong—just ask upfront so you know what to expect.
+              Some companies waive the service call fee if you proceed with the repair. Others don't. Neither approach is right or wrong-just ask upfront so you know what to expect.
             </p>
           </div>
         </div>
@@ -130,7 +130,7 @@ export default function BlogPost() {
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
-              <strong>Time of service.</strong> Emergency calls on weekends or at 2 AM cost more than Tuesday afternoon appointments. That's industry standard—technicians have to be paid more for inconvenient hours.
+              <strong>Time of service.</strong> Emergency calls on weekends or at 2 AM cost more than Tuesday afternoon appointments. That's industry standard-technicians have to be paid more for inconvenient hours.
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
@@ -167,7 +167,7 @@ export default function BlogPost() {
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
-              <strong>Complete HVAC system:</strong> $8,000-15,000+ for both heating and cooling equipment. The range is wide because homes vary—a 1,500 square foot ranch costs less to outfit than a 3,500 square foot two-story.
+              <strong>Complete HVAC system:</strong> $8,000-15,000+ for both heating and cooling equipment. The range is wide because homes vary-a 1,500 square foot ranch costs less to outfit than a 3,500 square foot two-story.
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed">
@@ -184,7 +184,7 @@ export default function BlogPost() {
             <h2 className="text-3xl font-bold mb-6">How We Handle HVAC Pricing</h2>
 
             <p className="text-lg text-blue-100 leading-relaxed mb-6">
-              We believe in straightforward pricing. When our tech diagnoses your system, they'll give you a clear quote before any work begins. You know exactly what you're paying for—no surprises.
+              We believe in straightforward pricing. When our tech diagnoses your system, they'll give you a clear quote before any work begins. You know exactly what you're paying for-no surprises.
             </p>
 
             <p className="text-lg text-blue-100 leading-relaxed mb-6">
@@ -228,7 +228,7 @@ export default function BlogPost() {
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed">
-              The cheapest quote isn't always the best value—especially in HVAC where quality installation makes a huge difference in how long your system lasts and how efficiently it runs.
+              The cheapest quote isn't always the best value-especially in HVAC where quality installation makes a huge difference in how long your system lasts and how efficiently it runs.
             </p>
           </div>
         </div>

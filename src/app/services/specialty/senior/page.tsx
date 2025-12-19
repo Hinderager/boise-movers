@@ -3,7 +3,7 @@ import { Phone } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Senior Moving Service | Professional Movers in Boise, ID',
-  description: 'Compassionate moving help for seniors in Boise. We'll handle the heavy lifting and work at your pace. Downsizing and relocation assistance available.',
+  description: 'Compassionate moving help for seniors in Boise. We will handle the heavy lifting and work at your pace. Downsizing and relocation assistance available.',
   alternates: { canonical: 'https://boise-movers.com/services/specialty/senior' },
 }
 
@@ -23,7 +23,7 @@ export default function SeniorPage() {
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4 max-w-4xl">
           <div className="prose prose-lg max-w-none">
-            <h2>Moving Is Hard—Especially for Seniors</h2>
+            <h2>Moving Is Hard-Especially for Seniors</h2>
             <p>
               Leaving a home you've lived in for decades is emotional. Add in the physical demands of packing and moving, and it gets overwhelming fast.
             </p>
@@ -39,7 +39,7 @@ export default function SeniorPage() {
               We're patient with decisions. Moving to a smaller place means choosing what to bring and what to leave behind. That's tough, and we get it.
             </p>
             <p>
-              We're also careful with sentimental items. We know that dresser isn't just furniture—it might be something that's been in the family for generations.
+              We're also careful with sentimental items. We know that dresser isn't just furniture-it might be something that's been in the family for generations.
             </p>
 
             <h2>Downsizing Help</h2>

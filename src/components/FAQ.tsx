@@ -5,13 +5,13 @@ import { ChevronDown } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 
 export const faqs = [
-  { question: 'How much does it cost to hire movers in Boise?', answer: 'Most local moves run between $300-800 depending on the size of your home and how much stuff you have. We charge by the hour with a minimum, and we'll give you an accurate estimate over the phone or in person. No hidden fees—what we quote is what you pay.' },
-  { question: 'Do I need to pack everything before the movers arrive?', answer: 'That's up to you. We can pack everything for you, pack just the fragile stuff, or you can pack it all yourself and we'll just do the moving. Whatever works best for your situation and budget.' },
-  { question: 'Are you insured?', answer: 'Yes. We're fully licensed and insured. We take care with everything we move, but if something does get damaged, you're covered. We'll walk you through the insurance details when we give you a quote.' },
-  { question: 'How far in advance should I book movers?', answer: 'For local moves, a week or two is usually fine. If you're moving during summer (our busy season) or on a weekend, book as early as you can. For long-distance moves, give us at least 2-3 weeks notice if possible.' },
-  { question: 'Can you move just one or two heavy items?', answer: 'Absolutely. We do small moves all the time—pianos, safes, big furniture, hot tubs. If it's heavy or awkward and you don't want to deal with it yourself, we'll handle it.' },
+  { question: 'How much does it cost to hire movers in Boise?', answer: 'Most local moves run between $300-800 depending on the size of your home and how much stuff you have. We charge by the hour with a minimum, and we will give you an accurate estimate over the phone or in person. No hidden fees - what we quote is what you pay.' },
+  { question: 'Do I need to pack everything before the movers arrive?', answer: 'That is up to you. We can pack everything for you, pack just the fragile stuff, or you can pack it all yourself and we will just do the moving. Whatever works best for your situation and budget.' },
+  { question: 'Are you insured?', answer: 'Yes. We are fully licensed and insured. We take care with everything we move, but if something does get damaged, you are covered. We will walk you through the insurance details when we give you a quote.' },
+  { question: 'How far in advance should I book movers?', answer: 'For local moves, a week or two is usually fine. If you are moving during summer (our busy season) or on a weekend, book as early as you can. For long-distance moves, give us at least 2-3 weeks notice if possible.' },
+  { question: 'Can you move just one or two heavy items?', answer: 'Absolutely. We do small moves all the time - pianos, safes, big furniture, hot tubs. If it is heavy or awkward and you do not want to deal with it yourself, we will handle it.' },
   { question: 'Do you move long distance?', answer: 'Yes. We handle moves anywhere in Idaho and to neighboring states. For longer cross-country moves, we work with trusted partners to make sure your stuff gets there safely.' },
-  { question: 'What if I need to reschedule?', answer: 'Life happens. Just give us a call as soon as you know. We'll do our best to work with you and find a new date that fits your schedule.' },
+  { question: 'What if I need to reschedule?', answer: 'Life happens. Just give us a call as soon as you know. We will do our best to work with you and find a new date that fits your schedule.' },
 ]
 
 export function FAQ() {

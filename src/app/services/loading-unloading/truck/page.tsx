@@ -3,7 +3,7 @@ import { Phone } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Loading & Unloading Service | Professional Movers in Boise, ID',
-  description: 'Need help loading and unloading your moving truck? We'll handle both ends of your DIY move. Affordable service in Boise and Treasure Valley.',
+  description: 'Need help loading and unloading your moving truck? We will handle both ends of your DIY move. Affordable service in Boise and Treasure Valley.',
   alternates: { canonical: 'https://boise-movers.com/services/loading-unloading/truck' },
 }
 
@@ -23,7 +23,7 @@ export default function TruckPage() {
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4 max-w-4xl">
           <div className="prose prose-lg max-w-none">
-            <h2>Load and Unload—We'll Handle Both</h2>
+            <h2>Load and Unload-We'll Handle Both</h2>
             <p>
               Renting your own truck makes sense if you're comfortable driving it. But that doesn't mean you need to do all the heavy lifting yourself.
             </p>
@@ -83,7 +83,7 @@ export default function TruckPage() {
       <section className="py-16 bg-dark-blue">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold text-white mb-4">Book Your Loading & Unloading Service</h2>
-          <p className="text-xl text-gray-300 mb-8">Get help on both ends of your move—call for a quote</p>
+          <p className="text-xl text-gray-300 mb-8">Get help on both ends of your move-call for a quote</p>
           <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
             <Phone className="w-5 h-5" />(208) 505-9352
           </a>

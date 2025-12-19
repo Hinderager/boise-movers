@@ -28,7 +28,7 @@ export default function PianoPage() {
               Pianos are heavy, fragile, and expensive. Moving one isn't like moving a couch. One wrong move and you've got a damaged instrument worth thousands of dollars.
             </p>
             <p>
-              We've moved hundreds of pianos, and we've got the right equipment and know-how to do it safely. Upright, grand, baby grand—we handle all types.
+              We've moved hundreds of pianos, and we've got the right equipment and know-how to do it safely. Upright, grand, baby grand-we handle all types.
             </p>
 
             <h2>How We Move Pianos</h2>
@@ -52,7 +52,7 @@ export default function PianoPage() {
 
             <h2>Stairs and Tight Spaces</h2>
             <p>
-              Moving a piano upstairs or through a narrow hallway takes planning and the right equipment. We've done it all—second-story apartments, basement music rooms, you name it.
+              Moving a piano upstairs or through a narrow hallway takes planning and the right equipment. We've done it all-second-story apartments, basement music rooms, you name it.
             </p>
             <p>
               Sometimes we need to remove doors or railings to make it fit. We'll figure out the logistics ahead of time so there's no surprises on moving day.
@@ -80,7 +80,7 @@ export default function PianoPage() {
       <section className="py-16 bg-dark-blue">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold text-white mb-4">Get Expert Piano Moving Help</h2>
-          <p className="text-xl text-gray-300 mb-8">Your piano's in good hands—call for a quote today</p>
+          <p className="text-xl text-gray-300 mb-8">Your piano's in good hands-call for a quote today</p>
           <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
             <Phone className="w-5 h-5" />(208) 505-9352
           </a>

@@ -4,7 +4,7 @@ import { Phone } from 'lucide-react'
 export const metadata: Metadata = {
   title: 'Should You Repair or Replace? | Boise HVAC Pros',
   description: 'Should You Repair or Replace? - Helpful HVAC information from Boise HVAC Pros.',
-  alternates: { canonical: 'https://hvac-boise.com/resources/repair-vs-replace' },
+  alternates: { canonical: 'https://boise-movers.com/resources/repair-vs-replace' },
 }
 
 export default function RepairvsReplacePage() {

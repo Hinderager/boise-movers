@@ -84,7 +84,7 @@ export default function MovingTipsPage() {
                   </li>
                   <li className="flex items-start gap-3">
                     <CheckCircle className="w-6 h-6 text-[#FFC845] flex-shrink-0 mt-0.5" />
-                    <span className="text-gray-700"><strong>Empty everything:</strong> Dressers, desks, nightstands—empty them. It makes them lighter and safer to move.</span>
+                    <span className="text-gray-700"><strong>Empty everything:</strong> Dressers, desks, nightstands-empty them. It makes them lighter and safer to move.</span>
                   </li>
                   <li className="flex items-start gap-3">
                     <CheckCircle className="w-6 h-6 text-[#FFC845] flex-shrink-0 mt-0.5" />

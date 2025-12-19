@@ -29,7 +29,7 @@ export default function StateToStatePage() {
           <div className="prose prose-lg max-w-none">
             <h2>Relocating to a New State?</h2>
             <p>
-              Moving between states is different from moving across town. You're dealing with longer distances, different regulations, and more complexity. It's not just about getting your stuff from point A to point B—it's about coordinating timing, protecting your belongings for a long haul, and making sure everything arrives safely.
+              Moving between states is different from moving across town. You're dealing with longer distances, different regulations, and more complexity. It's not just about getting your stuff from point A to point B-it's about coordinating timing, protecting your belongings for a long haul, and making sure everything arrives safely.
             </p>
             <p>
               We handle state-to-state moves all the time. Whether you're leaving Idaho or moving here from somewhere else, we'll take care of the logistics so you can focus on settling in.
@@ -55,7 +55,7 @@ export default function StateToStatePage() {
 
             <h2>How State-to-State Moving Works</h2>
             <p>
-              We start with a consultation—either over the phone, via video, or in person. You tell us what you're moving and where it's going, and we'll give you a detailed quote.
+              We start with a consultation-either over the phone, via video, or in person. You tell us what you're moving and where it's going, and we'll give you a detailed quote.
             </p>
             <p>
               Unlike local moves (which charge by the hour), state-to-state moves are priced based on the weight of your belongings and the distance. We'll give you an upfront cost so there are no surprises.
@@ -82,7 +82,7 @@ export default function StateToStatePage() {
 
             <h2>Packing for a State-to-State Move</h2>
             <p>
-              We can handle the packing for you—boxes, bubble wrap, blankets, tape, the whole thing. Or, if you prefer to pack yourself, we'll load and transport everything safely.
+              We can handle the packing for you-boxes, bubble wrap, blankets, tape, the whole thing. Or, if you prefer to pack yourself, we'll load and transport everything safely.
             </p>
             <p>
               Either way, we use blankets, straps, and padding to protect your belongings during transit. Nothing gets thrown around or damaged.
@@ -113,7 +113,7 @@ export default function StateToStatePage() {
 
             <h2>What Makes a Good State-to-State Move?</h2>
             <p>
-              Good movers communicate. We'll keep you updated throughout the process—when we're loading, when we're on the road, and when we'll arrive.
+              Good movers communicate. We'll keep you updated throughout the process-when we're loading, when we're on the road, and when we'll arrive.
             </p>
             <p>
               We'll also be upfront about costs, timing, and what to expect. No surprises, no hidden fees, no runarounds.

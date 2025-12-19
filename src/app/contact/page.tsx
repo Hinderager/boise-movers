@@ -4,7 +4,7 @@ import { Phone, Mail, MapPin, Clock } from 'lucide-react'
 export const metadata: Metadata = {
   title: 'Contact Us | Boise HVAC Pros',
   description: 'Contact Boise HVAC Pros for HVAC service in the Treasure Valley. Call (208) 505-9352 for fast service.',
-  alternates: { canonical: 'https://hvac-boise.com/contact' },
+  alternates: { canonical: 'https://boise-movers.com/contact' },
 }
 
 export default function ContactPage() {

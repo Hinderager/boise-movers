@@ -5,9 +5,9 @@ import { AlertTriangle, CheckCircle } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: '7 Signs Your AC Needs Repair Before It Dies | Boise HVAC Pros',
-  description: 'Your air conditioner is probably warning you before it fails. Here are 7 signs your AC needs repair in Boise—catch problems early and avoid a breakdown.',
+  description: 'Your air conditioner is probably warning you before it fails. Here are 7 signs your AC needs repair in Boise-catch problems early and avoid a breakdown.',
   alternates: {
-    canonical: 'https://hvac-boise.com/blogs/signs-ac-needs-repair',
+    canonical: 'https://boise-movers.com/blogs/signs-ac-needs-repair',
   },
 }
 
@@ -48,7 +48,7 @@ export default function BlogPost() {
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto">
             <p className="text-xl text-gray-700 leading-relaxed mb-6">
-              Air conditioners rarely die without warning. They give you signs—subtle at first, then more obvious. The trick is paying attention before a small problem becomes an expensive emergency on the hottest day of July.
+              Air conditioners rarely die without warning. They give you signs-subtle at first, then more obvious. The trick is paying attention before a small problem becomes an expensive emergency on the hottest day of July.
             </p>
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
               Boise summers push AC systems hard. When temperatures hit triple digits, your unit is working overtime. Any underlying issues get amplified under that strain.
@@ -93,7 +93,7 @@ export default function BlogPost() {
             <h2 className="text-3xl font-bold text-gunmetal mb-6">2. Strange Noises</h2>
 
             <p className="text-lg text-gray-700 leading-relaxed mb-6">
-              Your AC makes some noise when it runs—that's normal. But new sounds or louder-than-usual operation means something's changed.
+              Your AC makes some noise when it runs-that's normal. But new sounds or louder-than-usual operation means something's changed.
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
@@ -101,7 +101,7 @@ export default function BlogPost() {
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
-              <strong>Banging or clanking</strong> suggests something loose inside the unit—a broken fan blade, loose mounting hardware, or debris that got into the system.
+              <strong>Banging or clanking</strong> suggests something loose inside the unit-a broken fan blade, loose mounting hardware, or debris that got into the system.
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
@@ -109,7 +109,7 @@ export default function BlogPost() {
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed">
-              <strong>Clicking</strong> at startup and shutdown is normal. Constant clicking during operation is not—usually points to electrical problems.
+              <strong>Clicking</strong> at startup and shutdown is normal. Constant clicking during operation is not-usually points to electrical problems.
             </p>
           </div>
         </div>
@@ -143,7 +143,7 @@ export default function BlogPost() {
             <h2 className="text-3xl font-bold text-gunmetal mb-6">4. The System Runs Constantly</h2>
 
             <p className="text-lg text-gray-700 leading-relaxed mb-6">
-              On the hottest days, your AC might run for extended periods. That's normal. But if it never shuts off—or runs all day just to maintain temperature—something's off.
+              On the hottest days, your AC might run for extended periods. That's normal. But if it never shuts off-or runs all day just to maintain temperature-something's off.
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
@@ -164,7 +164,7 @@ export default function BlogPost() {
             <h2 className="text-3xl font-bold text-gunmetal mb-6">5. Short Cycling</h2>
 
             <p className="text-lg text-gray-700 leading-relaxed mb-6">
-              Short cycling is the opposite problem—the system turns on, runs briefly, shuts off, then starts again minutes later. Over and over.
+              Short cycling is the opposite problem-the system turns on, runs briefly, shuts off, then starts again minutes later. Over and over.
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
@@ -193,7 +193,7 @@ export default function BlogPost() {
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed">
-              If you see ice, turn the system off and let it thaw. Running an iced-up AC can damage the compressor—and that's an expensive repair.
+              If you see ice, turn the system off and let it thaw. Running an iced-up AC can damage the compressor-and that's an expensive repair.
             </p>
           </div>
         </div>
@@ -210,7 +210,7 @@ export default function BlogPost() {
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
-              <strong>Musty or moldy smell</strong> suggests biological growth somewhere in the system—often in the ductwork or on the evaporator coil. Besides being unpleasant, this can affect indoor air quality.
+              <strong>Musty or moldy smell</strong> suggests biological growth somewhere in the system-often in the ductwork or on the evaporator coil. Besides being unpleasant, this can affect indoor air quality.
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
@@ -218,7 +218,7 @@ export default function BlogPost() {
             </p>
 
             <p className="text-lg text-gray-600 leading-relaxed">
-              <strong>Rotten egg smell</strong> (if you have gas appliances nearby) could indicate a natural gas leak. That's an emergency—evacuate and call your gas company.
+              <strong>Rotten egg smell</strong> (if you have gas appliances nearby) could indicate a natural gas leak. That's an emergency-evacuate and call your gas company.
             </p>
           </div>
         </div>
@@ -231,7 +231,7 @@ export default function BlogPost() {
             <h2 className="text-3xl font-bold mb-6">When to Call for AC Repair in Boise</h2>
 
             <p className="text-lg text-blue-100 leading-relaxed mb-6">
-              If you notice one of these signs, don't panic—but don't ignore it either. Most AC problems are easier and cheaper to fix when caught early.
+              If you notice one of these signs, don't panic-but don't ignore it either. Most AC problems are easier and cheaper to fix when caught early.
             </p>
 
             <p className="text-lg text-blue-100 leading-relaxed mb-6">

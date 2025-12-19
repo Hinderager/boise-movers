@@ -36,7 +36,7 @@ export default function SuppliesPage() {
               We stock all the basics: small, medium, and large boxes. We've also got wardrobe boxes for hanging clothes and dish packs for kitchenware.
             </p>
             <p>
-              Plus all the extras you'll need—packing tape, bubble wrap, packing paper, and markers for labeling. You can grab everything in one stop instead of running all over town.
+              Plus all the extras you'll need-packing tape, bubble wrap, packing paper, and markers for labeling. You can grab everything in one stop instead of running all over town.
             </p>
             <p>
               If you're not sure what you need or how many boxes, just give us a call. We can estimate based on the size of your place.

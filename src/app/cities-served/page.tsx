@@ -5,7 +5,7 @@ import { MapPin, Phone } from 'lucide-react'
 export const metadata: Metadata = {
   title: 'Service Areas | Cities We Serve | Boise HVAC Pros',
   description: 'HVAC services throughout the Treasure Valley. Serving Boise, Meridian, Nampa, Caldwell, Eagle, and surrounding areas. Call (208) 505-9352.',
-  alternates: { canonical: 'https://hvac-boise.com/cities-served' },
+  alternates: { canonical: 'https://boise-movers.com/cities-served' },
 }
 
 const cities = [
