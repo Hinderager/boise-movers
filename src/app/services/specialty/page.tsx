@@ -3,7 +3,7 @@ import { Phone } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Specialty Moving Services Boise | Pianos, Antiques, Seniors',
-  description: 'Specialty moving services for items that need extra care. Pianos, antiques, heavy furniture, senior moves, and more. Call (208) 505-9352.',
+  description: 'Specialty moving services for items that need extra care. Pianos, antiques, heavy furniture, senior moves, and more. Call (208) 768-3987.',
   alternates: {
     canonical: 'https://boise-movers.com/services/specialty',
   },
@@ -16,8 +16,8 @@ export default function SpecialtyPage() {
         <div className="relative z-10 container mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6">Specialty Moving Services</h1>
           <p className="text-xl text-gray-200 max-w-3xl mx-auto mb-8">For the stuff that needs extra care and experience.</p>
-          <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-            <Phone className="w-5 h-5" />(208) 505-9352
+          <a href="tel:2087683987" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+            <Phone className="w-5 h-5" />(208) 768-3987
           </a>
         </div>
       </section>
@@ -95,7 +95,7 @@ export default function SpecialtyPage() {
 
             <h2>Ready to Move Something Special?</h2>
             <p>
-              Call us at <a href="tel:2085059352" className="text-dark-blue font-semibold">(208) 505-9352</a> and
+              Call us at <a href="tel:2087683987" className="text-dark-blue font-semibold">(208) 768-3987</a> and
               describe what you need moved. We'll ask a few questions, give you a quote, and make sure we're
               prepared when we show up.
             </p>
@@ -107,8 +107,8 @@ export default function SpecialtyPage() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold text-white mb-4">Need Help Moving Something Special?</h2>
           <p className="text-xl text-gray-300 mb-8">We've handled it all. Tell us what you need moved.</p>
-          <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-            <Phone className="w-5 h-5" />(208) 505-9352
+          <a href="tel:2087683987" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+            <Phone className="w-5 h-5" />(208) 768-3987
           </a>
         </div>
       </section>

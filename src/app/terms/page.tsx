@@ -2,8 +2,8 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Terms of Service | Boise HVAC Pros',
-  description: 'Terms of service for Boise HVAC Pros heating and cooling services in Boise and the Treasure Valley.',
+  title: 'Terms of Service | Boise Movers Pros',
+  description: 'Terms of service for Boise Movers Pros moving services in Boise and the Treasure Valley.',
   alternates: {
     canonical: 'https://boise-movers.com/terms',
   },
@@ -19,23 +19,23 @@ export default function TermsPage() {
 
           <div className="prose prose-lg max-w-none text-gray-600">
             <p>
-              Welcome to Boise HVAC Pros. By accessing our website or using our services, you agree to be bound by these Terms of Service. Please read them carefully.
+              Welcome to Boise Movers Pros. By accessing our website or using our services, you agree to be bound by these Terms of Service. Please read them carefully.
             </p>
 
             <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">1. Services</h2>
             <p>
-              Boise HVAC Pros provides professional heating, ventilation, and air conditioning services including repair, installation, and maintenance in Boise, Meridian, Nampa, Caldwell, Eagle, and surrounding areas in Idaho. All services are subject to availability and our ability to safely perform the work.
+              Boise Movers Pros provides professional moving services including local moves, long distance relocations, packing services, furniture moving, and loading/unloading assistance in Boise, Meridian, Nampa, Caldwell, Eagle, and surrounding areas in Idaho. All services are subject to availability and our ability to safely perform the work.
             </p>
 
             <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">2. Service Agreement</h2>
             <p>
-              By requesting services from Boise HVAC Pros, you represent that you are the property owner or have authorization from the property owner to request and authorize HVAC services. You agree to provide accurate information about the property and scope of work needed.
+              By requesting services from Boise Movers Pros, you represent that you are the property owner or have authorization from the property owner to request and authorize moving services. You agree to provide accurate information about the property, inventory, and scope of work needed.
             </p>
 
             <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">3. Estimates and Pricing</h2>
             <ul>
-              <li>We provide free estimates based on an on-site assessment of your HVAC system</li>
-              <li>Diagnostic fees may apply for repair services and are disclosed before the visit</li>
+              <li>We provide free estimates based on the information you provide about your move</li>
+              <li>On-site estimates may be required for larger or complex moves</li>
               <li>Estimates are valid for 30 days unless otherwise specified</li>
               <li>Final pricing may vary if the actual scope of work differs significantly from the initial assessment</li>
               <li>We will communicate any pricing changes and obtain your approval before proceeding with additional work</li>
@@ -45,87 +45,78 @@ export default function TermsPage() {
             <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">4. Payment Terms</h2>
             <ul>
               <li>Payment is due upon completion of services unless otherwise agreed in writing</li>
-              <li>For installations and larger projects, we may require a deposit or progress payments</li>
+              <li>For long distance moves, we may require a deposit or progress payments</li>
               <li>We accept cash, check, and major credit cards (Visa, Mastercard, American Express, Discover)</li>
-              <li>Financing options are available for qualified customers on larger purchases</li>
+              <li>Financing options may be available for qualified customers</li>
               <li>Returned checks are subject to a $35 fee</li>
               <li>Past due accounts may be subject to collection fees and interest</li>
             </ul>
 
             <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">5. Scheduling and Cancellation</h2>
             <ul>
-              <li>We will make reasonable efforts to accommodate your preferred scheduling</li>
-              <li>Emergency services are available 24/7 and may be subject to after-hours rates</li>
-              <li>Please provide at least 24 hours notice if you need to reschedule or cancel your appointment</li>
-              <li>Same-day cancellations may be subject to a cancellation fee</li>
+              <li>We will make reasonable efforts to accommodate your preferred moving date</li>
+              <li>Please provide at least 48 hours notice if you need to reschedule or cancel your move</li>
+              <li>Cancellations with less than 48 hours notice may be subject to a cancellation fee</li>
               <li>We reserve the right to reschedule due to weather, safety concerns, or other unforeseen circumstances</li>
             </ul>
 
             <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">6. Property Access and Safety</h2>
             <p>You agree to:</p>
             <ul>
-              <li>Provide safe access to the property and HVAC equipment for our team</li>
-              <li>Inform us of any known hazards or concerns about the property</li>
-              <li>Secure pets during service appointments</li>
-              <li>Ensure clear access to indoor and outdoor HVAC equipment</li>
-              <li>Have electrical service connected and functioning at the property</li>
+              <li>Provide safe access to both origin and destination properties for our team</li>
+              <li>Inform us of any known hazards, stairs, elevators, or access restrictions</li>
+              <li>Secure pets during the move</li>
+              <li>Ensure clear pathways and parking for our moving truck</li>
+              <li>Notify us of any items requiring special handling or disassembly</li>
             </ul>
 
-            <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">7. Warranties</h2>
+            <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">7. Liability and Insurance</h2>
             <ul>
-              <li>We stand behind our work and provide a warranty on labor and installation</li>
-              <li>Parts are covered under manufacturer warranties which vary by product</li>
-              <li>Warranty terms will be explained and provided in writing at the time of service</li>
-              <li>Warranties may be voided if equipment is tampered with by unauthorized parties</li>
-              <li>Maintenance plan membership may extend warranty coverage</li>
+              <li>Boise Movers Pros is fully licensed and insured</li>
+              <li>Basic liability coverage is included with our services</li>
+              <li>Additional valuation protection is available for purchase</li>
+              <li>We are not liable for damage to items not properly packed unless packing services were purchased</li>
+              <li>High-value items should be disclosed in advance</li>
+              <li>Claims must be filed within 30 days of the move</li>
             </ul>
 
-            <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">8. Liability and Insurance</h2>
+            <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">8. Customer Responsibilities</h2>
+            <p>You are responsible for:</p>
             <ul>
-              <li>Boise HVAC Pros is fully licensed and insured</li>
-              <li>We carry general liability insurance and workers&apos; compensation coverage</li>
-              <li>We take reasonable care to protect your property during service</li>
-              <li>We are not responsible for pre-existing damage or concealed conditions</li>
-              <li>Our liability is limited to the cost of services provided</li>
+              <li>Providing accurate inventory and access information</li>
+              <li>Disconnecting and preparing appliances if applicable</li>
+              <li>Obtaining necessary permits or building permissions</li>
+              <li>Being present or having an authorized representative during the move</li>
+              <li>Inspecting inventory and noting any concerns at delivery</li>
             </ul>
 
-            <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">9. Permits and Code Compliance</h2>
+            <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">9. Prohibited Items</h2>
             <p>
-              When required by local building codes, we obtain necessary permits for HVAC installations and major repairs. Permit fees are included in our quotes unless otherwise noted. All work is performed in compliance with applicable building codes and manufacturer specifications.
+              We cannot transport hazardous materials, explosives, flammable liquids, perishable food, plants (for long distance moves), or items prohibited by law. You are responsible for transporting these items separately.
             </p>
 
-            <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">10. Communication Consent</h2>
+            <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">10. Limitation of Liability</h2>
             <p>
-              By providing your phone number, you consent to receive calls and text messages from us regarding your inquiry, appointment scheduling, and service updates. Message and data rates may apply. You may opt out of text messages at any time by replying STOP.
+              Our liability is limited as set forth in the service agreement and applicable law. We are not liable for consequential damages, delays caused by circumstances beyond our control, or pre-existing damage to items.
             </p>
 
-            <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">11. Website Use</h2>
+            <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">11. Dispute Resolution</h2>
             <p>
-              The content on this website is for informational purposes only. We make no warranties about the accuracy or completeness of information on this site. You agree not to use this website for any unlawful purpose or in any way that could damage or impair the site.
+              Any disputes will be governed by Idaho law. We encourage customers to contact us directly to resolve any concerns before pursuing legal action.
             </p>
 
-            <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">12. Intellectual Property</h2>
+            <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">12. Changes to Terms</h2>
             <p>
-              All content on this website, including text, images, logos, and design, is the property of Boise HVAC Pros and is protected by copyright and trademark laws. You may not reproduce, distribute, or use our content without written permission.
+              We reserve the right to modify these Terms of Service at any time. Updated terms will be posted on our website with a new &quot;Last updated&quot; date.
             </p>
 
-            <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">13. Dispute Resolution</h2>
-            <p>
-              Any disputes arising from these Terms or our services shall be governed by the laws of the State of Idaho. You agree to attempt to resolve any disputes through good-faith negotiation before pursuing legal action.
-            </p>
-
-            <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">14. Changes to Terms</h2>
-            <p>
-              We reserve the right to modify these Terms of Service at any time. Changes will be effective immediately upon posting to this website. Your continued use of our services after changes are posted constitutes acceptance of the modified terms.
-            </p>
-
-            <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">15. Contact Us</h2>
+            <h2 className="text-2xl font-bold text-gunmetal mt-8 mb-4">Contact Us</h2>
             <p>
               If you have questions about these Terms of Service, please contact us:
             </p>
             <ul>
-              <li><strong>Phone:</strong> (208) 505-9352</li>
-              <li><strong>Email:</strong> info@boise-movers.com</li>
+              <li><strong>Phone:</strong> (208) 768-3987</li>
+              <li><strong>Email:</strong> info@topshelfpros.com</li>
             </ul>
           </div>
 

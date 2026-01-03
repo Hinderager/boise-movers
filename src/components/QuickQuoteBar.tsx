@@ -9,7 +9,7 @@ export function QuickQuoteBar() {
     <section id="quote-form" className={`pt-4 pb-0 -mt-4 -mb-0 md:-mb-16 border-0 z-0 md:z-20 overflow-visible relative before:content-[''] before:absolute before:-top-[140px] md:before:top-0 before:left-0 before:right-0 before:-z-10 after:content-[''] after:absolute after:-top-[140px] md:after:top-0 after:left-0 after:right-0 after:bg-[url('/assets/asset-7.webp')] after:bg-repeat after:bg-[length:800px] after:opacity-50 after:-z-[5] before:bg-[radial-gradient(ellipse_at_center,#2a6ab0_0%,#10477d_60%)] before:bottom-14 after:bottom-14 md:before:bottom-8 md:after:bottom-8`}>
       <div className="hidden md:flex items-center justify-center h-[40px] mb-4 w-full tagline-bar">
         <span className="text-white italic text-sm sm:text-base md:text-[1.5rem] font-semibold tracking-tight whitespace-nowrap">
-          Keeping the Treasure Valley comfortable since 2022
+          Moving the Treasure Valley with care since 2022
         </span>
       </div>
       <style jsx>{`
@@ -28,18 +28,18 @@ export function QuickQuoteBar() {
       `}</style>
 
       <div className="hidden md:flex justify-center gap-4 mb-6 px-4">
-        <a href="tel:2085059352" className="px-8 py-3 rounded-lg font-bold text-lg uppercase bg-[#FFC845] text-[#10477d] hover:bg-[#e5b13d] transition-all border-4 border-[#FFC845]">
-          Free HVAC Estimate
+        <a href="tel:2087683987" className="px-8 py-3 rounded-lg font-bold text-lg uppercase bg-[#FFC845] text-[#10477d] hover:bg-[#e5b13d] transition-all border-4 border-[#FFC845]">
+          Free Moving Quote
         </a>
       </div>
 
       <div className="md:hidden px-4">
         <div className="flex gap-1.5 mb-0">
-          <a href="tel:2085059352" className="flex-1 py-3 font-bold text-sm uppercase transition-all rounded-lg bg-[#FFC845] text-[#10477d] hover:bg-[#e5b13d] text-center">
-            Free HVAC Estimate
+          <a href="tel:2087683987" className="flex-1 py-3 font-bold text-sm uppercase transition-all rounded-lg bg-[#FFC845] text-[#10477d] hover:bg-[#e5b13d] text-center">
+            Free Moving Quote
           </a>
         </div>
-        <p className="text-white text-center italic text-sm mt-6">Keeping the Treasure Valley comfortable since 2022</p>
+        <p className="text-white text-center italic text-sm mt-6">Moving the Treasure Valley with care since 2022</p>
       </div>
     </section>
   )

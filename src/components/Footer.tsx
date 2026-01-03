@@ -43,11 +43,11 @@ export function Footer() {
             <ul className="space-y-4">
               <li className="flex items-start gap-3">
                 <Phone className="h-5 w-5 text-[#ff6b35] flex-shrink-0 mt-1" />
-                <a href="tel:2085059352" className="text-white/80 hover:text-white transition-colors font-semibold">(208) 505-9352</a>
+                <a href="tel:2087683987" className="text-white/80 hover:text-white transition-colors font-semibold">(208) 768-3987</a>
               </li>
               <li className="flex items-start gap-3">
                 <Mail className="h-5 w-5 text-[#ff6b35] flex-shrink-0 mt-1" />
-                <a href="mailto:info@boise-movers.com" className="text-white/80 hover:text-white transition-colors">info@boise-movers.com</a>
+                <a href="mailto:info@topshelfpros.com" className="text-white/80 hover:text-white transition-colors">info@topshelfpros.com</a>
               </li>
               <li className="flex items-start gap-3">
                 <MapPin className="h-5 w-5 text-[#ff6b35] flex-shrink-0 mt-1" />

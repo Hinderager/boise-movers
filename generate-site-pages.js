@@ -7,8 +7,8 @@ const path = require('path');
 
 const siteConfig = {
   businessName: 'Boise HVAC Pros',
-  phone: '(208) 505-9352',
-  phoneRaw: '2085059352',
+  phone: '(208) 768-3987',
+  phoneRaw: '2087683987',
   domain: 'hvac-boise.com',
   region: 'Treasure Valley',
   state: 'Idaho',

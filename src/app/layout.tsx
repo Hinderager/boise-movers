@@ -5,6 +5,7 @@ import './globals.css'
 import { Header } from '@/components/Header'
 import { Footer } from '@/components/Footer'
 import { StructuredData } from '@/components/StructuredData'
+import { BreadcrumbSchema } from '@/components/BreadcrumbSchema'
 import { QuoteFormProvider } from '@/context/QuoteFormContext'
 
 const montserrat = Montserrat({
@@ -24,10 +25,10 @@ const oswald = Oswald({
 export const metadata: Metadata = {
   metadataBase: new URL('https://boise-movers.com'),
   title: {
-    default: 'Boise Movers | Professional Moving Services in Boise Idaho',
-    template: '%s | Boise Movers Pros',
+    default: 'Boise Movers | Local & Long Distance | Top Shelf',
+    template: '%s | Boise Movers',
   },
-  description: 'Professional moving services in Boise, Meridian, Nampa, Caldwell & Eagle Idaho. Local moves, long distance moving, packing services, furniture moving. Licensed & insured. Call (208) 505-9352.',
+  description: 'Professional moving services in Boise, Meridian, Nampa, Caldwell & Eagle Idaho. Local moves, long distance moving, packing services, furniture moving. Licensed & insured. Call (208) 768-3987.',
   keywords: [
     'movers Boise',
     'moving company Boise Idaho',
@@ -82,6 +83,7 @@ export default function RootLayout({
     <html lang="en" className="scroll-smooth">
       <head>
         <StructuredData />
+        <BreadcrumbSchema siteName="Top Shelf Movers" siteUrl="https://boise-movers.com" />
         <link rel="dns-prefetch" href="https://www.google.com" />
         <link rel="preconnect" href="https://www.google.com" crossOrigin="anonymous" />
       </head>

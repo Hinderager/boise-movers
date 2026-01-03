@@ -5,7 +5,7 @@ import { Phone, ArrowRight } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'State to State Moving Services | Professional Interstate Movers Boise',
-  description: 'Professional state-to-state moving services from Boise. Experienced with interstate relocations throughout the U.S. Licensed and insured. Call (208) 505-9352.',
+  description: 'Professional state-to-state moving services from Boise. Experienced with interstate relocations throughout the U.S. Licensed and insured. Call (208) 768-3987.',
   alternates: {
     canonical: 'https://boise-movers.com/services/long-distance/state-to-state',
   },
@@ -18,8 +18,8 @@ export default function StateToStatePage() {
         <div className="relative z-10 container mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6">State-to-State Moving</h1>
           <p className="text-xl text-gray-200 max-w-3xl mx-auto mb-8">Professional moving services for interstate relocations across the country.</p>
-          <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-            <Phone className="w-5 h-5" />(208) 505-9352
+          <a href="tel:2087683987" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+            <Phone className="w-5 h-5" />(208) 768-3987
           </a>
         </div>
       </section>
@@ -121,7 +121,7 @@ export default function StateToStatePage() {
 
             <h2>Ready to Move?</h2>
             <p>
-              Call us at <a href="tel:2085059352" className="text-dark-blue font-semibold">(208) 505-9352</a> and let's talk about your state-to-state move. We'll answer your questions, give you a detailed quote, and help you plan the details.
+              Call us at <a href="tel:2087683987" className="text-dark-blue font-semibold">(208) 768-3987</a> and let's talk about your state-to-state move. We'll answer your questions, give you a detailed quote, and help you plan the details.
             </p>
           </div>
         </div>
@@ -131,8 +131,8 @@ export default function StateToStatePage() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold text-white mb-4">Get a Free State-to-State Moving Quote</h2>
           <p className="text-xl text-gray-300 mb-8">Call us for a detailed estimate on your interstate move.</p>
-          <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-            <Phone className="w-5 h-5" />(208) 505-9352
+          <a href="tel:2087683987" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+            <Phone className="w-5 h-5" />(208) 768-3987
           </a>
         </div>
       </section>

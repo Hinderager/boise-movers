@@ -2,8 +2,8 @@ import { Metadata } from 'next'
 import { Phone } from 'lucide-react'
 
 export const metadata: Metadata = {
-  title: 'Customer Reviews & Testimonials | Boise HVAC Pros',
-  description: 'Customer Reviews & Testimonials - Boise HVAC Pros. Serving the Treasure Valley.',
+  title: 'Customer Reviews & Testimonials | Boise Movers Pros',
+  description: 'Customer Reviews & Testimonials - Boise Movers Pros. Serving the Treasure Valley.',
   alternates: { canonical: 'https://boise-movers.com/about-us/testimonials' },
 }
 
@@ -24,8 +24,8 @@ export default function TestimonialsPage() {
       </section>
       <section className="py-12 bg-dark-blue text-center">
         <div className="container mx-auto px-4">
-          <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-            <Phone className="w-5 h-5" />(208) 505-9352
+          <a href="tel:2087683987" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+            <Phone className="w-5 h-5" />(208) 768-3987
           </a>
         </div>
       </section>

@@ -5,7 +5,7 @@ import { Phone, ArrowRight } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Long Distance Moving Services | Top Shelf Moving Boise',
-  description: 'Professional long-distance moving services from Boise. Interstate, cross-country, and state-to-state moves. Licensed and insured. Call (208) 505-9352.',
+  description: 'Professional long-distance moving services from Boise. Interstate, cross-country, and state-to-state moves. Licensed and insured. Call (208) 768-3987.',
   alternates: {
     canonical: 'https://boise-movers.com/services/long-distance',
   },
@@ -18,8 +18,8 @@ export default function LongDistancePage() {
         <div className="relative z-10 container mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6">Long Distance Moving</h1>
           <p className="text-xl text-gray-200 max-w-3xl mx-auto mb-8">Professional moving services for interstate, cross-country, and state-to-state relocations.</p>
-          <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-            <Phone className="w-5 h-5" />(208) 505-9352
+          <a href="tel:2087683987" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+            <Phone className="w-5 h-5" />(208) 768-3987
           </a>
         </div>
       </section>
@@ -103,7 +103,7 @@ export default function LongDistancePage() {
 
             <h2>Ready to Plan Your Move?</h2>
             <p>
-              Call us at <a href="tel:2085059352" className="text-dark-blue font-semibold">(208) 505-9352</a> and let's talk about where you're headed. We'll answer your questions, walk through the details, and get you a quote.
+              Call us at <a href="tel:2087683987" className="text-dark-blue font-semibold">(208) 768-3987</a> and let's talk about where you're headed. We'll answer your questions, walk through the details, and get you a quote.
             </p>
           </div>
         </div>
@@ -113,8 +113,8 @@ export default function LongDistancePage() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold text-white mb-4">Get a Free Long-Distance Moving Quote</h2>
           <p className="text-xl text-gray-300 mb-8">Call us for a detailed estimate on your long-distance move.</p>
-          <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-            <Phone className="w-5 h-5" />(208) 505-9352
+          <a href="tel:2087683987" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+            <Phone className="w-5 h-5" />(208) 768-3987
           </a>
         </div>
       </section>

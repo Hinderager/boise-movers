@@ -29,8 +29,8 @@ export default function CostCalculatorPage() {
                 <div>
                   <h3 className="font-bold text-dark-blue mb-2">Want an Exact Quote?</h3>
                   <p className="text-gray-600 mb-3">The best way to know what your move will cost is to call us. We'll ask a few questions and give you an accurate estimate-usually within a few minutes.</p>
-                  <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-dark-blue text-white px-6 py-2 rounded-lg font-bold hover:bg-[#1a5a9e] transition-colors">
-                    <Phone className="w-4 h-4" />(208) 505-9352
+                  <a href="tel:2087683987" className="inline-flex items-center gap-2 bg-dark-blue text-white px-6 py-2 rounded-lg font-bold hover:bg-[#1a5a9e] transition-colors">
+                    <Phone className="w-4 h-4" />(208) 768-3987
                   </a>
                 </div>
               </div>
@@ -150,8 +150,8 @@ export default function CostCalculatorPage() {
             <div className="mt-12 bg-dark-blue p-8 rounded-xl text-center">
               <h2 className="text-2xl font-bold text-white mb-4">Get an Accurate Quote</h2>
               <p className="text-gray-300 mb-6">These estimates are helpful, but every move is different. Call us for a real quote based on your specific situation.</p>
-              <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-                <Phone className="w-5 h-5" />(208) 505-9352
+              <a href="tel:2087683987" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+                <Phone className="w-5 h-5" />(208) 768-3987
               </a>
             </div>
           </div>

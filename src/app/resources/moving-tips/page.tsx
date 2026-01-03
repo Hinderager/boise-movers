@@ -167,8 +167,8 @@ export default function MovingTipsPage() {
             <div className="mt-12 bg-dark-blue p-8 rounded-xl text-center">
               <h2 className="text-2xl font-bold text-white mb-4">Let Us Handle the Heavy Lifting</h2>
               <p className="text-gray-300 mb-6">You worry about the details. We'll handle getting everything from point A to point B.</p>
-              <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-                <Phone className="w-5 h-5" />(208) 505-9352
+              <a href="tel:2087683987" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+                <Phone className="w-5 h-5" />(208) 768-3987
               </a>
             </div>
           </div>

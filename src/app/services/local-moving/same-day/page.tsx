@@ -5,7 +5,7 @@ import { Phone, ArrowRight } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Same Day Moving Services Boise | Last-Minute Movers Treasure Valley',
-  description: 'Need same-day moving services in Boise? We offer last-minute moving for apartments and houses throughout the Treasure Valley. Licensed and insured. Call (208) 505-9352.',
+  description: 'Need same-day moving services in Boise? We offer last-minute moving for apartments and houses throughout the Treasure Valley. Licensed and insured. Call (208) 768-3987.',
   alternates: {
     canonical: 'https://boise-movers.com/services/local-moving/same-day',
   },
@@ -18,8 +18,8 @@ export default function SameDayPage() {
         <div className="relative z-10 container mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6">Same-Day Moving Services</h1>
           <p className="text-xl text-gray-200 max-w-3xl mx-auto mb-8">Need to move today? We offer last-minute moving services throughout the Treasure Valley.</p>
-          <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-            <Phone className="w-5 h-5" />(208) 505-9352
+          <a href="tel:2087683987" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+            <Phone className="w-5 h-5" />(208) 768-3987
           </a>
         </div>
       </section>
@@ -131,7 +131,7 @@ export default function SameDayPage() {
 
             <h2>Ready to Move Today?</h2>
             <p>
-              Call us at <a href="tel:2085059352" className="text-dark-blue font-semibold">(208) 505-9352</a> right now. We'll check our schedule, answer your questions, and do our best to get you moved today.
+              Call us at <a href="tel:2087683987" className="text-dark-blue font-semibold">(208) 768-3987</a> right now. We'll check our schedule, answer your questions, and do our best to get you moved today.
             </p>
           </div>
         </div>
@@ -141,8 +141,8 @@ export default function SameDayPage() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold text-white mb-4">Need to Move Today?</h2>
           <p className="text-xl text-gray-300 mb-8">Call us now and we'll see if we can fit you in.</p>
-          <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-            <Phone className="w-5 h-5" />(208) 505-9352
+          <a href="tel:2087683987" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+            <Phone className="w-5 h-5" />(208) 768-3987
           </a>
         </div>
       </section>

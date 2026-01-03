@@ -5,7 +5,7 @@ import { CheckCircle, Phone, AlertTriangle } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Residential Moving Kuna ID | Boise Movers',
-  description: 'Professional residential moving in Kuna, Idaho. Fast, careful service at fair prices. Licensed & insured. Call (208) 505-9352.',
+  description: 'Professional residential moving in Kuna, Idaho. Fast, careful service at fair prices. Licensed & insured. Call (208) 768-3987.',
   keywords: ['residential moving Kuna', 'movers Kuna Idaho', 'moving services Kuna'],
   alternates: {
     canonical: 'https://boise-movers.com/cities-served/kuna/residential-moving',
@@ -30,8 +30,8 @@ export default function KunaResidentialMovingPage() {
           <div className="inline-block bg-red-600 text-white px-4 py-1 rounded-full text-sm font-bold mb-4">Same-Day Service Available</div>
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6">Residential Moving in Kuna</h1>
           <p className="text-xl text-gray-200 max-w-3xl mx-auto mb-8">Full-service home moving for Kuna residents. Professional, reliable, stress-free.</p>
-          <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-            <Phone className="w-5 h-5" />(208) 505-9352
+          <a href="tel:2087683987" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+            <Phone className="w-5 h-5" />(208) 768-3987
           </a>
         </div>
       </section>
@@ -78,8 +78,8 @@ export default function KunaResidentialMovingPage() {
             <div className="mt-12 p-8 bg-dark-blue rounded-xl text-center">
               <h3 className="text-2xl font-bold text-white mb-4">Need Residential Moving in Kuna?</h3>
               <p className="text-gray-300 mb-6">Call now for a free moving estimate.</p>
-              <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-                <Phone className="w-5 h-5" />(208) 505-9352
+              <a href="tel:2087683987" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+                <Phone className="w-5 h-5" />(208) 768-3987
               </a>
             </div>
           </div>

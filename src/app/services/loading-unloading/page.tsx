@@ -3,7 +3,7 @@ import { Phone } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Loading & Unloading Services Boise | Top Shelf Moving',
-  description: 'Need help loading or unloading your rental truck? We provide professional labor to get the job done fast. Call (208) 505-9352 today.',
+  description: 'Need help loading or unloading your rental truck? We provide professional labor to get the job done fast. Call (208) 768-3987 today.',
   alternates: {
     canonical: 'https://boise-movers.com/services/loading-unloading',
   },
@@ -16,8 +16,8 @@ export default function LoadingUnloadingPage() {
         <div className="relative z-10 container mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6">Loading & Unloading Services</h1>
           <p className="text-xl text-gray-200 max-w-3xl mx-auto mb-8">Got a truck but need help with the heavy lifting? We've got you.</p>
-          <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-            <Phone className="w-5 h-5" />(208) 505-9352
+          <a href="tel:2087683987" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+            <Phone className="w-5 h-5" />(208) 768-3987
           </a>
         </div>
       </section>
@@ -83,7 +83,7 @@ export default function LoadingUnloadingPage() {
 
             <h2>Ready to Book?</h2>
             <p>
-              Call us at <a href="tel:2085059352" className="text-dark-blue font-semibold">(208) 505-9352</a> and
+              Call us at <a href="tel:2087683987" className="text-dark-blue font-semibold">(208) 768-3987</a> and
               tell us when you need help. We'll give you a price and get you on the schedule.
             </p>
           </div>
@@ -94,8 +94,8 @@ export default function LoadingUnloadingPage() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold text-white mb-4">Get a Quote for Loading or Unloading</h2>
           <p className="text-xl text-gray-300 mb-8">We'll give you an honest price and get the job done right.</p>
-          <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-            <Phone className="w-5 h-5" />(208) 505-9352
+          <a href="tel:2087683987" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+            <Phone className="w-5 h-5" />(208) 768-3987
           </a>
         </div>
       </section>

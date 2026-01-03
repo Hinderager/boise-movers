@@ -5,7 +5,7 @@ import { CheckCircle, MapPin, Phone } from 'lucide-react'
 
 export const metadata: Metadata = {
   title: 'Movers Meridian Idaho | Boise Movers',
-  description: 'Professional movers in Meridian, Idaho. Local and long-distance moves, packing, loading help. Licensed & insured. Call (208) 505-9352.',
+  description: 'Professional movers in Meridian, Idaho. Local and long-distance moves, packing, loading help. Licensed & insured. Call (208) 768-3987.',
   keywords: ['movers Meridian', 'moving company Meridian Idaho', 'local movers Meridian', 'moving services Meridian'],
   alternates: {
     canonical: 'https://boise-movers.com/cities-served/meridian',
@@ -38,8 +38,8 @@ export default function MeridianPage() {
         <div className="relative z-10 container mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6">Movers in Meridian</h1>
           <p className="text-xl text-gray-200 max-w-3xl mx-auto mb-8">Professional moving services for Meridian homes and businesses. Fast, careful, and affordable.</p>
-          <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-            <Phone className="w-5 h-5" />(208) 505-9352
+          <a href="tel:2087683987" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-4 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+            <Phone className="w-5 h-5" />(208) 768-3987
           </a>
         </div>
       </section>
@@ -96,8 +96,8 @@ export default function MeridianPage() {
             <div className="mt-12 p-8 bg-dark-blue rounded-xl text-center">
               <h3 className="text-2xl font-bold text-white mb-4">Need Movers in Meridian?</h3>
               <p className="text-gray-300 mb-6">Call us for a free moving estimate.</p>
-              <a href="tel:2085059352" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
-                <Phone className="w-5 h-5" />(208) 505-9352
+              <a href="tel:2087683987" className="inline-flex items-center gap-2 bg-[#FFC845] text-dark-blue px-8 py-3 rounded-lg font-bold text-lg hover:bg-yellow-400 transition-colors">
+                <Phone className="w-5 h-5" />(208) 768-3987
               </a>
             </div>
           </div>
