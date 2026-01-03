@@ -112,6 +112,52 @@ export default function BoisePage() {
             <Link href="/cities-served/meridian" className="text-dark-blue underline hover:text-[#0b7fb6] font-medium">Meridian</Link>
             <Link href="/cities-served/nampa" className="text-dark-blue underline hover:text-[#0b7fb6] font-medium">Nampa</Link>
             <Link href="/cities-served/caldwell" className="text-dark-blue underline hover:text-[#0b7fb6] font-medium">Caldwell</Link>
+            {/* Neighborhood Pages */}
+            <div className="mt-12">
+              <h3 className="text-2xl font-bold text-dark-blue mb-6">
+                Boise Neighborhoods We Serve
+              </h3>
+              <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
+                
+                <Link
+                  href="/cities-served/boise/north-end"
+                  className="bg-gray-100 hover:bg-gray-200 rounded-lg p-4 transition-colors"
+                >
+                  <span className="font-semibold text-dark-blue">North End</span>
+                </Link>
+                <Link
+                  href="/cities-served/boise/bench"
+                  className="bg-gray-100 hover:bg-gray-200 rounded-lg p-4 transition-colors"
+                >
+                  <span className="font-semibold text-dark-blue">The Bench</span>
+                </Link>
+                <Link
+                  href="/cities-served/boise/downtown"
+                  className="bg-gray-100 hover:bg-gray-200 rounded-lg p-4 transition-colors"
+                >
+                  <span className="font-semibold text-dark-blue">Downtown Boise</span>
+                </Link>
+                <Link
+                  href="/cities-served/boise/harris-ranch"
+                  className="bg-gray-100 hover:bg-gray-200 rounded-lg p-4 transition-colors"
+                >
+                  <span className="font-semibold text-dark-blue">Harris Ranch</span>
+                </Link>
+                <Link
+                  href="/cities-served/boise/southeast-boise"
+                  className="bg-gray-100 hover:bg-gray-200 rounded-lg p-4 transition-colors"
+                >
+                  <span className="font-semibold text-dark-blue">Southeast Boise</span>
+                </Link>
+                <Link
+                  href="/cities-served/boise/west-boise"
+                  className="bg-gray-100 hover:bg-gray-200 rounded-lg p-4 transition-colors"
+                >
+                  <span className="font-semibold text-dark-blue">West Boise</span>
+                </Link>
+              </div>
+            </div>
+
             <Link href="/cities-served/eagle" className="text-dark-blue underline hover:text-[#0b7fb6] font-medium">Eagle</Link>
           </div>
         </div>
